@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Davide Torlo's Personal Website"
+excerpt: "I am a postdoctoral researcher in Numerical Analysis, passionate about Data and musician in spare time."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello visitor! I am Davide Torlo, a postdoctoral researcher at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-bordeaux-sud-ouest) in [CARDAMOM](https://team.inria.fr/cardamom/) team, under the supervision of [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/). I earned my PhD at [University of Zurich](https://www.math.uzh.ch/index.php?id=home) under the supervision of [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882). Before, I studied in [SISSA](https://www.sissa.it/) and [University of Trieste](https://www.units.it) for my Master, where I did my thesis with [prof. Gianluigi Rozza](https://people.sissa.it/~grozza/), and at [University of Milan - Bicocca](https://unimib.it) for my Bachelor studies.
+
 
 A data-driven personal website
 ======
