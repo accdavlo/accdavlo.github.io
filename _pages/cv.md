@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Applied Mathematics, [University of Zurich](https://www.math.uzh.ch), 2020. [Dissertation](http://accdavlo.github.io/files/theses/TorloPhDThesisOneSided.pdf)
+* M.S. in Mathematics, [University of Trieste](https://www.units.it) and [SISSA](https://www.sissa.it), 2016. [Master Thesis](http://accdavlo.github.io/files/theses/TorloMasterThesis.pdf)
+* B.S. in Mathematics, [University of Milan--Bicocca](https://www.unimib.it), 2014.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 10/20--now: Postdoctoral Fellow
+  * INRIA Bordeaux - Team CARDAMOM
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
 
-* Fall 2015: Research Assistant
-  * Github University
+* 09/16--08/20: Research and Teaching Assistant
+  * University of Zurich - Institute of Mathematics
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
+
+* 09/10--08/16: Private Teacher
+  * Mathematics and Physics classes for high school and university students
+
+* 01/10--06/16: Theatrical technician
+  * TACT International Act Festival Trieste
+  * Teatro Stabile Sloveno, Trieste
+  * Auditorium via Alberico da Rosciate, Bergamo
+  * Teatro Qoelet, Bergamo
+  
+* 01/10--06/14: Video editor
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * python
+  * Matlab
+  * Fortran
+  * Julia
+* Languages
+  * Italian (Native)
+  * English (C1)
+  * German (B2)
+  * French (A1)
+
 
 Publications
 ======
@@ -56,4 +73,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 12/14--08/16: Faculty Students' Representative
+* 01/13--06/16: Organizer of Bergamo Beatles Festival
+* 10/10--06/11: High School Students' Representative
+* 10/10--09/14: Active member of *Associazione Giovanile Mellow Mood*
