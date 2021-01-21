@@ -16,4 +16,8 @@ Current research
 Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numerical Analysis projects.
 1. Stabilized Finite Element methods. We are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme.
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem.
-1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](https://arxiv.org/abs/2002.11764) and [mPDeC](https://arxiv.org/abs/1905.09237).
+1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](/publication/2021-02-10-ADER-is-DeC) and [mPDeC](/publication/2020-07-01-mPDeC).
+
+Previous Projects
+=================
+

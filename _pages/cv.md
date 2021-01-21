@@ -24,7 +24,7 @@ Work experience
 
 * 09/16--08/20: Research and Teaching Assistant
   * University of Zurich - Institute of Mathematics
-  * Duties included: Merging pull requests
+  * Teaching at Bachelor, Master and PhD students in Mathematics and Computer Science [My UZH page](https://www.math.uzh.ch/index.php?id=people&semId=40&key1=13063)
   * Supervisor: [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
 
 * 09/10--08/16: Private Teacher
@@ -59,18 +59,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * 12/14--08/16: Faculty Students' Representative
