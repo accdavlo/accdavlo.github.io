@@ -20,4 +20,7 @@ Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numer
 
 Previous Projects
 =================
-
+During my PhD and my Master I've studied high order accurate methods and model order reduction techniques for hyperbolic problems. The dissertation is available [here](http://accdavlo.github.io/files/theses/TorloPhDThesisOneSided.pdf).
+1. I have studied an implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [Publication on the topic](/publication/2020-06-29-high-order-IMEX-DeC)
+1. MOR techniques for hyperbolic problems for advection dominated problems with an *ad hoc* arbitrary Lagrangian--Eulerian model to track the steep fronts, [here](/publication/2020-03-30-MOR-AD-ALE_1D), and for uncertainty quantification applications [here](/publication/2019-03-01-model-UQ).
+1. Weighted MOR algorithm to speed up the computation in stochastic PDE. I wrote a [post](/posts/2021/02/wMOR/) on that and there is a [publication](/publication/2018-10-25-stabilized-weighted) about it.
