@@ -17,7 +17,7 @@ profile of the bathymetry. Thus, the model must be extended in order to include 
 the asymptotic convergence to the macroscopic problem.
 
 To solve the equations with high order methods, we use an IMEX (implicit–explicit) discretization in
-time [2] to stabilize the relaxation term, with DeC (deferred correction) time integration, a high order
+time to stabilize the relaxation term, with DeC (deferred correction) time integration, a high order
 iterative time integration technique, and RD (residual distribution) space discretization, a finite–
 element based method that can generalize well–known discontinuous Galerkin, finite volume and finite
 difference schemes.
@@ -31,6 +31,8 @@ we want our scheme to guarantee positivity of water height everywhere in the dom
 and dry area.
 
 We show some numerical tests to prove the quality of the scheme.
+
+[Link to the talk](https://slideslive.com/38945721)
 
 
 REFERENCES
