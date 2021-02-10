@@ -7,18 +7,18 @@ venue: "WCCM - Eccomas 2020"
 date: 2021-01-10
 location: "Paris, France"
 ---
-In this work, we study a kinetic model [1] that contains stiff relaxation terms in the source. This model
+In this work, we study a kinetic model that contains stiff relaxation terms in the source. This model
 can be applied to any non linear hyperbolic problem without source term, that we will call macroscopic
 problem, to obtain a larger system of equations with linear fluxes and non–linear source terms, the
 microscopic problem, that converges asymptotically to the original hyperbolic system.
 
 We want to apply this kinetic model to shallow water equations with a source term that depends on the
-profile of the bathymetry. Thus, the model [1] must be extended in order to include this term and to gain
+profile of the bathymetry. Thus, the model must be extended in order to include this term and to gain
 the asymptotic convergence to the macroscopic problem.
 
 To solve the equations with high order methods, we use an IMEX (implicit–explicit) discretization in
-time [2] to stabilize the relaxation term, with DeC (deferred correction) [3] time integration, a high order
-iterative time integration technique, and RD (residual distribution) [4] space discretization, a finite–
+time [2] to stabilize the relaxation term, with DeC (deferred correction) time integration, a high order
+iterative time integration technique, and RD (residual distribution) space discretization, a finite–
 element based method that can generalize well–known discontinuous Galerkin, finite volume and finite
 difference schemes.
 
@@ -34,13 +34,13 @@ We show some numerical tests to prove the quality of the scheme.
 
 
 REFERENCES
-[1] Aregba-Driollet, D. and Natalini, R., Discrete Kinetic Schemes for Systems of Conservation Laws. Birkhauser
+ * Aregba-Driollet, D. and Natalini, R., Discrete Kinetic Schemes for Systems of Conservation Laws. Birkhauser
 Basel, Basel, 1999.
-[2] R. Abgrall, and D. Torlo. Asymptotic preserving Deferred Correction Residual Distribution schemes. arXiv
+ * R. Abgrall, and D. Torlo. Asymptotic preserving Deferred Correction Residual Distribution schemes. arXiv
 e-prints, page arXiv:1811.09284, Nov 2018.
-[3] A. Dutt, L. Greengard, and V. Rokhlin. Spectral Deferred Correction Methods for Ordinary Differential
+ * A. Dutt, L. Greengard, and V. Rokhlin. Spectral Deferred Correction Methods for Ordinary Differential
 Equations. BIT Numerical Mathematics, 40(2):241–266, 2000.
-[4] M. Ricchiuto and R. Abgrall. Explicit Runge-Kutta residual distribution schemes for time dependent problems: Second order case. Journal of Computational Physics, 229(16):5653–5691, 2010.
+ * M. Ricchiuto and R. Abgrall. Explicit Runge-Kutta residual distribution schemes for time dependent problems: Second order case. Journal of Computational Physics, 229(16):5653–5691, 2010.
 
 <div id="presentation-embed-38945757"></div>
 <script src='https://slideslive.com/embed_presentation.js'></script>
