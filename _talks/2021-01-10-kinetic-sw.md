@@ -42,8 +42,8 @@ e-prints, page arXiv:1811.09284, Nov 2018.
 Equations. BIT Numerical Mathematics, 40(2):241–266, 2000.
  * M. Ricchiuto and R. Abgrall. Explicit Runge-Kutta residual distribution schemes for time dependent problems: Second order case. Journal of Computational Physics, 229(16):5653–5691, 2010.
 
-<div id="presentation-embed-38945757" markdown="1"></div>
-<script src='https://slideslive.com/embed_presentation.js' markdown="1"></script>
+<div id="presentation-embed-38945757"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
 embed = new SlidesLiveEmbed('presentation-embed-38945757', {
     presentationId: '38945757',
