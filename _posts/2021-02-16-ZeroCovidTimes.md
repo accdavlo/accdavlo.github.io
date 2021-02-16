@@ -1,0 +1,37 @@
+---
+title: 'How long will it take to adopt a Zero Covid Strategy?'
+date: 2021-02-16
+permalink: /posts/2021/02/ZeroCovidTimes/
+tags:
+  - zero covid
+  - lockdown
+  - 
+  - 
+---
+
+In this post, I try to get further information on how long a Zero Covid strategy can last in a country.
+
+## What is a Zero Covid strategy?
+As the name suggests, the goal of this strategy is to bring the number of cases to the lowest possible (zero). This has been already done in some countries as New Zealand, Australia or Taiwan.
+It consists of different phases. 
+ * A first one, where a **strong lockdown** is imposed until the number of cases decreases below a threshold (around 10 per week over 100,000 population)
+ * A second phase where **many restriction are lifted**, the **contact tracing** is effective and a **zone system** is employed. This means that every time a zone reaches a number of cases higher than the tolerance, it falls back into a local lockdown, until the number are limited again. The clou ingredient of this phase is that each case should be always reconduct to a previous one. In the event of a case with unknown origin, the zone falls back in the previous phase.
+ * A third phase in which each zone, where the number of cases is zero, is set **free**. Again, as soon as new cases are found it falls back in the previous phases.
+
+This strategy has been already employed in different countries outside central Europe. It is remarkable that also in Europe similar techinques (meaning different geographical zones ruled by different levels of danger) have been adopted. For example, Italy follow a 3 phases strategy, where each phase does not pursue the goal of reaching the traceability of the cases. Clearly it is not enough to bring cases to zero. Lately, Germany started imposing a stronger lockdown in the last months and it is aiming decreasing the number of cases until below a certain threshold which is still dibated between government and Lands.
+
+## How the pandemic would behave during the strategy?
+The pandemic can be modeled using many simplifications with a SIR model (symptomatic, infected, recovered). This model, when far form the herd immunity, behaves exponentially in both directions. Meaning that the number of cases evolve as $I=Ce^{(R-1)t}$, where C is a constant depending on the infection, R is the reproduction number of the disease and t is time. The measures adopted by a country (ignoring borders effects) modify directly the reproduction number $R$. In the picture below we can see the behavior of the cases varying in time if $R>1$ (on the left) and if $R < 1$ on the right. 
+
+![Exponential Behavior](/images/postCovid/exponential.png)
+
+For human beings it is difficult to catch the exponential behavoir, that is why we often use a logarithmic scale to better understand it. In this scale, we see that the logarithm of the infections behaves linearly with time $\log (I) = C_1+ C_2(R-1)t$. In particular, we notice that the number of infections doubles at a fixed time, for $R>1$ and gets the half every $N$ days when $R <1$. Without getting too complicated with different variants of the virus and so on, we try to focus on a strategy that brings $R$ to certain values and keeps it for a certain time.
+
+It is now interesting to understand what is the halvening time for the development of the pandemic. This can tell us **when** the Zero Covid phases should change to the next one. 
+
+## How to forecast the time needed in lockdown before the new phase?
+
+Let us look at the Covid cases in New Zealand. There were few cases at the benning of March, then the Zero Covid strategy was applied. 
+
+![New Zealand cases](/images/postCovid/HalveningNewZealand.png)
+ 
