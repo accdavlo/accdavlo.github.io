@@ -31,7 +31,19 @@ It is now interesting to understand what is the halvening time for the developme
 
 ## How to forecast the time needed in lockdown before the new phase?
 
-Let us look at the Covid cases in New Zealand. There were few cases at the benning of March, then the Zero Covid strategy was applied. 
+Let us look at the Covid cases in New Zealand. There were few cases at the benning of April, then the Zero Covid strategy was applied. 
 
 ![New Zealand cases](/images/postCovid/HalveningNewZealand.png)
- 
+
+There the peak was of around 2 detected cases per day per 100,000 inhabitants, which was brought to almost zero in around one month. In particular, we see that in the logarithmic scale, they were able to halven the detected cases every 5 days. 
+
+If we come back to Europe we can observe similar behaviors, but with way higher numbers. 
+In **Italy**, after the secod wave, we observe a negative exponential  behavior as well in May, where the testing was more cosistent in the country. There the halvening time was of **14 days**. At that time they could have reached the goal of 1 case per week per 100,000 inhabitants by continuing the measures that were on in May till the beginning of July. On the contrary, restrictions were lifted and the exponential inerted around mid July.
+
+![Italy first wave](/images/postCovid/HalveningItalyFirstWave.png) 
+
+The past is gone and the question is: if Italy applies the same measures kept on May 2020 from now, **when will the goal of 1 case per week per 100,000 inhabitants will be reached?** 
+Supposing that the testing is working more or less fine and that the virus did not mutate too much (which is not be true, it worsened), we can forecast the cases for the **new lockdown**.
+
+![Italy first wave](/images/postCovid/HalveningItalyProjection15Days.png) 
+
