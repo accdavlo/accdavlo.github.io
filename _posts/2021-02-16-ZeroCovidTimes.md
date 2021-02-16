@@ -50,9 +50,13 @@ The green line shows that by the beginning of May 2021 Italy could reach the num
 
 During the second wave the rules were less strict and different in each region, leading to a larger $R$ and a less effective strategy: halving time of about 19 days. 
 
-![Italy first wave](/images/postCovid/HalveningItalyFirstWave.png) 
+![Italy Second wave](/images/postCovid/HalveningItalySecondWave.png) 
 
 Using this strategy now, it would last till mid June 2021 to have the same cases of summer 2020.
+
+![Italy Goal 50](/images/postCovid/HalveningItalyGoal50.png)
+
+While if Italy wants to reach 50 cases per week, one month with the red zone measure of the second wave should be enough. 
 
 # [Play with the tool](https://colab.research.google.com/drive/1G7Dn1z8CfkhTtbK8YvlVdakc2yz3qzmm?usp=sharing)
 These plots have been produced with a simple python script which is available on [Google Colab](https://colab.research.google.com/drive/1G7Dn1z8CfkhTtbK8YvlVdakc2yz3qzmm?usp=sharing). 
