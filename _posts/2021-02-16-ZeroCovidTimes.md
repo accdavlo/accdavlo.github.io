@@ -5,8 +5,9 @@ permalink: /posts/2021/02/ZeroCovidTimes/
 tags:
   - zero covid
   - lockdown
-  - 
-  - 
+  - exponential
+  - SIR
+  - halvening time
 ---
 
 In this post, I try to get further information on how long a Zero Covid strategy can last in a country.
@@ -18,7 +19,7 @@ It consists of different phases.
  * A second phase where **many restriction are lifted**, the **contact tracing** is effective and a **zone system** is employed. This means that every time a zone reaches a number of cases higher than the tolerance, it falls back into a local lockdown, until the number are limited again. The clou ingredient of this phase is that each case should be always reconduct to a previous one. In the event of a case with unknown origin, the zone falls back in the previous phase.
  * A third phase in which each zone, where the number of cases is zero, is set **free**. Again, as soon as new cases are found it falls back in the previous phases.
 
-This strategy has been already employed in different countries outside central Europe. It is remarkable that also in Europe similar techinques (meaning different geographical zones ruled by different levels of danger) have been adopted. For example, Italy follow a 3 phases strategy, where each phase does not pursue the goal of reaching the traceability of the cases. Clearly it is not enough to bring cases to zero. Lately, Germany started imposing a stronger lockdown in the last months and it is aiming decreasing the number of cases until below a certain threshold which is still dibated between government and Lands.
+This strategy has been already employed in different countries outside central Europe. It is remarkable that also in Europe similar techniques (meaning different geographical zones ruled by different levels of danger) have been adopted. For example, Italy follow a 3 phases strategy, where each phase does not pursue the goal of reaching the traceability of the cases. Clearly it is not enough to bring cases to zero. Lately, Germany started imposing a stronger lockdown in the last months and it is aiming decreasing the number of cases until below a certain threshold which is still debated between government and Lands.
 
 ## How the pandemic would behave during the strategy?
 The pandemic can be modeled using many simplifications with a SIR model (symptomatic, infected, recovered). This model, when far form the herd immunity, behaves exponentially in both directions. Meaning that the number of cases evolve as $I=Ce^{(R-1)t}$, where C is a constant depending on the infection, R is the reproduction number of the disease and t is time. The measures adopted by a country (ignoring borders effects) modify directly the reproduction number $R$. In the picture below we can see the behavior of the cases varying in time if $R>1$ (on the left) and if $R < 1$ on the right. 
