@@ -10,7 +10,7 @@ tags:
   - halvening time
 ---
 
-In this post, I try to get further information on how long a Zero Covid strategy can last in a country.
+In this post, I try to get further information on how long a Zero Covid strategy can last in a country and I try to provide a tool to play with the parameters on [Google colab](https://colab.research.google.com/drive/1G7Dn1z8CfkhTtbK8YvlVdakc2yz3qzmm?usp=sharing).
 
 ## What is a Zero Covid strategy?
 As the name suggests, the goal of this strategy is to bring the number of cases to the lowest possible (zero). This has been already done in some countries as New Zealand, Australia or Taiwan.
