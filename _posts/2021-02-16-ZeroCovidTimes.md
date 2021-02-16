@@ -43,7 +43,26 @@ In **Italy**, after the secod wave, we observe a negative exponential  behavior 
 ![Italy first wave](/images/postCovid/HalveningItalyFirstWave.png) 
 
 The past is gone and the question is: if Italy applies the same measures kept on May 2020 from now, **when will the goal of 1 case per week per 100,000 inhabitants will be reached?** 
-Supposing that the testing is working more or less fine and that the virus did not mutate too much (which is not be true, it worsened), we can forecast the cases for the **new lockdown**.
+Supposing that the testing is working more or less fine and that the virus did not mutate too much (which is not be true, it worsened), we can forecast the cases for the **new lockdown**. 
 
-![Italy first wave](/images/postCovid/HalveningItalyProjection15Days.png) 
+The green line shows that by the beginning of May 2021 Italy could reach the number of cases of the last summer (2020) and by the end of May 2021 the threshold of 1 case per week per 100,000 inhabitants. 
+
+During the second wave the rules were less strict and different in each region, leading to a larger $R$ and a less effective strategy: halving time of about 19 days. 
+
+![Italy first wave](/images/postCovid/HalveningItalyFirstWave.png) 
+
+Using this strategy now, it would last till mid June 2021 to have the same cases of summer 2020.
+
+# [Play with the tool](https://colab.research.google.com/drive/1G7Dn1z8CfkhTtbK8YvlVdakc2yz3qzmm?usp=sharing)
+These plots have been produced with a simple python script which is available on [Google Colab](https://colab.research.google.com/drive/1G7Dn1z8CfkhTtbK8YvlVdakc2yz3qzmm?usp=sharing). 
+There you can put all the countries of the world and play with the parameters. Simply start the script with the play button on the top left of the code box and then tune the parameters:
+ * Data to consider to compute the halving time: starting date and Data interval
+ * Halving time of the projection starting from now
+ * Goal to be reached
+
+![Germany cases](/images/postCovid/HalveningGermany.png)
+As an example, here we set Germany as a country, we see that during the first wave the halvening time was about 14 days and now it is of around 20 days. We can imagine that keeping this pace it will reach the goal of 2.5 cases per week per 100,000 inhabitants by beginning of June. 
+
+## Conclusions
+Clearly, there's a tradeoff between what we want to achieve and how we can achieve it. The vaccination will also play a big role in this game, but, for sure, European governments will not let variants dictate the future.
 
