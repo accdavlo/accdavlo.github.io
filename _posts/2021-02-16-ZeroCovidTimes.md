@@ -18,7 +18,7 @@ The discussion in this post is a simplification of the model in reality. In part
 ## What is a Zero Covid strategy?
 As the name suggests, the goal of this strategy is to bring the number of cases to the lowest possible (zero). This has been already done in some countries as New Zealand, Australia or Taiwan.
 It consists of different phases. 
- * A first one, where a **strong lockdown** is imposed until the number of cases decreases below a threshold (around 10 per week over 100,000 population)
+ * A first one, where a **strong lockdown** is imposed until the number of cases decreases below a threshold (around 10 per week over 100,000 population, but different experts said different numbers between 2.5 and 50)
  * A second phase where **many restriction are lifted**, the **contact tracing** is effective and a **zone system** is employed. This means that every time a zone reaches a number of cases higher than the tolerance, it falls back into a local lockdown, until the number are limited again. The clou ingredient of this phase is that each case should be always reconduct to a previous one. In the event of a case with unknown origin, the zone falls back in the previous phase.
  * A third phase in which each zone, where the number of cases is zero, is set **free**. Again, as soon as new cases are found it falls back in the previous phases.
 
