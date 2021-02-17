@@ -42,7 +42,7 @@ Let us look at the Covid cases in New Zealand. There were few cases at the benni
 There the peak was of around 2 detected cases per day per 100,000 inhabitants, which was brought to almost zero in around one month. In particular, we see that in the logarithmic scale, they were able to halve the detected cases every 5 days. 
 
 If we come back to Europe we can observe similar behaviors, but with way higher numbers. 
-In **Italy**, after the secod wave, we observe a negative exponential behavior as well in May, where the testing was more consistent in the country. There the halving time was of **14 days**. At that time they could have reached the goal of 1 case per week per 100,000 inhabitants by continuing the measures that were on in May till the beginning of July. On the contrary, restrictions were lifted and the exponential inerted around mid July.
+In **Italy**, after the secod wave, we observe a negative exponential behavior as well in May, where the testing was more consistent in the country. There the halving time was of **14 days**. At that time they could have reached the goal of 1 case per week per 100,000 inhabitants by continuing the measures that were on in May till the beginning of July. On the contrary, restrictions were lifted and the exponential inverted around mid July.
 
 ![Italy first wave](/images/postCovid/HalveningItalyFirstWave.png) 
 
