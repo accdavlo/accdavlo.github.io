@@ -72,5 +72,7 @@ There you can put all the countries of the world and play with the parameters. S
 As an example, here we set Germany to be the country of interest, we see that during the first wave the halving time was about 14 days and now it is of around 20 days. We can imagine that keeping this pace it will reach the goal of 2.5 cases per week per 100,000 inhabitants by beginning of June. 
 
 ## Conclusions
+Clearly, reaching 1 case per 100,000 per week would take too long with a lockdown, but reaching 50 or 30 cases per 100,000 per week in order to make the contact tracing still effective is doable in a month or two of not too strict lockdown measures.
+
 Now, the objective stays in tradeoff between the cost for decreasing the cases and the goal that we want to achieve in order to make contact tracing as effective as possible. I think in the next months the European countries will try to find a good compromise in this.
 
