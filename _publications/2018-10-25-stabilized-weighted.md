@@ -10,4 +10,5 @@ citation: 'D. Torlo, F. Ballarin, and G. Rozza. (2018). &quot;Stabilized weighte
 ---
 In this work, we propose viable and efficient strategies for stabilized parametrized advection dominated problems, with random inputs. In particular, we investigate the combination of the wRB (weighted reduced basis) method for stochastic parametrized problems with the stabilized RB (reduced basis) method, which is the integration of classical stabilization methods (streamline/upwind Petrov--Galerkin (SUPG) in our case) in the offline--online structure of the RB method. Moreover, we introduce a reduction method that selectively enables online stabilization; this leads to a sensible reduction of computational costs, while keeping a very good accuracy with respect to high-fidelity solutions. We present numerical test cases to assess the performance of the proposed methods in steady and unsteady problems related to heat transfer phenomena.
 
-[Download paper here](https://arxiv.org/abs/1711.11275)
+[Download paper here](files/publications/Torlo2018wMORadvectionDominated.pdf)
+[Arxiv page](https://arxiv.org/abs/1711.11275)

@@ -14,4 +14,5 @@ Next, we extend our investigation to stiff ODEs, treating these source terms imp
 Finally, in the numerical section we investigate A-stability for the ADER approach - this is done for the first time up to our knowledge - for different order using several basis functions and compare them with the DeC ansatz. Then, we compare the performance of ADER and DeC for stiff and non-stiff ODEs and verify our analysis focusing on two basic hyperbolic problems.
 
 
-[Download paper here](https://arxiv.org/abs/2002.11764)
+[Download paper here](files/publications/Veiga2021ADERisDeC.pdf)
+[Arxiv page](https://arxiv.org/abs/2002.11764)
