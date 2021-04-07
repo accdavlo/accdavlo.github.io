@@ -8,7 +8,8 @@ date: 2021-04-14
 location: "Bordeaux, France"
 ---
 
-[Course Page](https://www.adum.fr/script/formations.pl?mod=292601&site=edmi)
+[Notebooks of the course and instructions](https://github.com/accdavlo/HighOrderODESolvers)
+[Course Page on ADUM website](https://www.adum.fr/script/formations.pl?mod=292601&site=edmi)
 
 Goal
 ======
@@ -27,7 +28,9 @@ Programme
 
 Prerequisites
 ======
-Basics of numerical analysis
+* Basics of numerical analysis
+* More details on the installation for running the notebooks can be found on the repository [github.com/accdavlo/HighOrderODESolvers](https://github.com/accdavlo/HighOrderODESolvers#readme)
+
 
 Schedule
 ========
