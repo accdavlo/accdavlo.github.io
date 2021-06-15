@@ -12,7 +12,7 @@ In many models described by ordinary differential equations (ODEs) and partial d
 
 Without relaxation         |  With Relaxation 
 :-------------------------:|:-------------------------:
-![Energy error without relaxation](/images/relaxation-dec/pendulum__energy_standard.png)|![Energy error with relaxation](/images/relaxation-dec/pendulum__energy_standard.png)
+![Energy error without relaxation](/images/relaxation-dec/pendulum__energy_standard.png)|![Energy error with relaxation](/images/relaxation-dec/pendulum__energy_relaxed.png)
 
 
 In this work, we extend the relaxation algorithm to the class of arbitrarily high order accurate schemes defined by the Deferred Correction methods, [Dutt](https://doi.org/10.1023/A:1022338906936) [Minion](https://doi.org/10.4310/CMS.2003.v1.n3.a6) [Abgrall](https://doi.org/10.1007/s10915-017-0498-4). These methods can be used as method of lines, and hence, rewritten into Runge--Kutta methods, but they can also be used as iteration methods to converge to complicated high order discretizations using matrix free schemes. In that context, the relaxation technique can be applied in different ways. 
