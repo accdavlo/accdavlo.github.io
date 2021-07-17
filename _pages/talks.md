@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+
+[Compact list of publications and talks](/publicationList)
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
