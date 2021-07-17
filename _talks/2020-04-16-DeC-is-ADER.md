@@ -6,7 +6,7 @@ permalink: /talks/2020-04-16-DeC-is-ADER
 venue: "SAMinar (ETH+UZH)"
 date: 2020-04-16
 location: "Zurich, Switzerland"
-pdf: /files/talks/ADERDeCSAMinar_05_2020.pdf
+pdf: /files/talks/ADERDeCSAMinar.pdf
 ---
 
 When we think about high order time integration, Runge–Kutta (RK) is the most known class of schemes that comes to mind, for historical reasons. Nevertheless, many other techniques have been developed during these years to improve these techniques and to get a generalized form of them.
@@ -19,6 +19,6 @@ In this talk, we will show that they are based on the same iterative process and
 
 [Link to the video of the talk](https://drive.math.uzh.ch/index.php/s/25opXm79yGeWrrY)
 
-[Slides](/files/talks/ADERDeCSAMinar_05_2020.pdf)
+[Slides](/files/talks/ADERDeCSAMinar.pdf)
 
 [Link to the publication](/publication/2021-02-10-ADER-is-DeC)

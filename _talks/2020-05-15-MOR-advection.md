@@ -6,7 +6,7 @@ permalink: /talks/2020-05-15-MOR-advection
 venue: "Analysis Junior Seminars 2019-2020"
 date: 2020-05-15
 location: "Trieste, Italy"
-pdf: /files/talks/ADERDeCSAMinar_05_2020.pdf
+pdf: /files/talks/RB_advection_dominated_trieste_150520.pdf
 ---
 
 Model order reduction (MOR) techniques have always struggled in compressing information for advection dominated problems.
