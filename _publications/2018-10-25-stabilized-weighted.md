@@ -13,3 +13,5 @@ In this work, we propose viable and efficient strategies for stabilized parametr
 [Download paper here](/files/publications/Torlo2018wMORadvectionDominated.pdf)
 
 [Arxiv page](https://arxiv.org/abs/1711.11275)
+
+![Advection Dominated](/images/research/MORadvDom.gif)
