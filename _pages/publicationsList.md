@@ -1,11 +1,9 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publicationsList/
 author_profile: true
 ---
-
-[Compact list of publications and talks](/publicationList)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
