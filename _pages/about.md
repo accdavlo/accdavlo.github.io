@@ -17,23 +17,19 @@ Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numer
 1. Stabilized Finite Element methods. We are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme. 
 ![Dispersion analysis](/images/research/dispersionAnalysis.png)
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem.
-![Dispersive Waves](/images/research/KdVMOR.gif)
-<img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="150"/>
+<img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="350"/>
 1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](/publication/2021-02-10-ADER-is-DeC) and [mPDeC](/publication/2020-07-01-mPDeC).
 1. Kinetic models with macroscopic Shallow Water equations limit. Also here the use of an implicit DeC scheme allows to obtain high order methods.
 ![Kinetic SW](/images/research/plotTransFrictionPerturb.png)
 1. Stability of modified Patankar schemes, which are positive preserving schemes, but can show oscillations and inconsistency under certain conditions.
-![Robertson Problem MP](/images/research/RobertsonUnstable.png)
+<img src="/images/research/RobertsonUnstable.png" alt="Robertson Problem MP" width="350"/>
 
 Previous Projects
 =================
 During my PhD and my Master I've studied high order accurate methods and model order reduction techniques for hyperbolic problems. The dissertation is available [here](http://accdavlo.github.io/files/theses/TorloPhDThesisOneSided.pdf).
 1. I have studied an implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [Publication on the topic](/publication/2020-06-29-high-order-IMEX-DeC)
-![Shu Osher test](images/research/kineticEuler.png)
+<img src="/images/research/kineticEuler.png" alt="Shu Osher test" width="350"/>
 1. MOR techniques for hyperbolic problems for advection dominated problems with an *ad hoc* arbitrary Lagrangian--Eulerian model to track the steep fronts, [here](/publication/2020-03-30-MOR-AD-ALE_1D), and for uncertainty quantification applications [here](/publication/2019-03-01-model-UQ).
-
-Without ALE treatment|With ALE treatment
-:-------------------------:|:-------------------------:
-![Eulerian](/images/research/ALEMOREulerian.png)|![Lagrangian](/images/research/ALEMORLagrangian.png)
+![Eulerian](/images/research/ALEMOREulerian.png)![Lagrangian](/images/research/ALEMORLagrangian.png)
 1. Weighted MOR algorithm to speed up the computation in stochastic PDE. I wrote a [post](/posts/2021/02/wMOR/) on that and there is a [publication](/publication/2018-10-25-stabilized-weighted) about it.
 ![Advection Dominated](/images/research/MORadvDom.gif)
