@@ -7,7 +7,7 @@ date: 2021-06-15
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2106.05005'
 citation: 'R. Abgrall, E. Le Mélédo, P. Öffner and D. Torlo. (2021). &quot;Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2106.05005.'
-pdf:/files/publications/Abgrall2021RelaxationDeC.pdf
+pdf: /files/publications/Abgrall2021RelaxationDeC.pdf
 ---
 In many models described by ordinary differential equations (ODEs) and partial differential equations (PDEs), there exists a scalar quantity that is physically conserved, e.g. energy, entropy, Liyapunov functional or angular momentum. Approximating with numerical methods the solutions of such models does not mean to automatically conserve these quantities. D. Ketcheson in [Relaxation Runge-Kutta Methods: Conservation and stability for inner-product norms](https://arxiv.org/abs/1905.09847) proposes a relaxation approach where each time step is *relaxed* by a factor $\gamma$. This means that the step that one actually does is a little more or a little less than the originally planned step. Properly tuning this $\gamma$, by solving a scalar (nonlinear) equation, one can guarantee to exactly conserve the desired quantity.
 
