@@ -6,7 +6,7 @@ permalink: /talks/2021-03-02-DeC-vs-ADER
 venue: "Oberwolfach, workshop on hyperbolic balance laws"
 date: 2021-03-02
 location: "Oberwolfach, Germany"
-slide: /files/talks/ADERDeC_Oberwolfach_03_2021.pdf
+pdf: /files/talks/ADERDeC_Oberwolfach_03_2021.pdf
 ---
 
 The hyperbolic PDE community has used, in the last years, two powerful techniques that provide arbitrarily high order explicit schemes: ADER (arbitrary derivative) schemes and Deferred Correction (DeC) schemes.

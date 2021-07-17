@@ -6,7 +6,7 @@ permalink: /talks/2021-01-10-kinetic-sw
 venue: "WCCM - Eccomas 2020"
 date: 2021-01-10
 location: "Paris, France"
-slide: /files/talks/relaxation_IMEX_RD_DeC_ECCOMAS_01_2021.pdf
+pdf: /files/talks/relaxation_IMEX_RD_DeC_ECCOMAS_01_2021.pdf
 ---
 In this work, we study a kinetic model that contains stiff relaxation terms in the source. This model
 can be applied to any non linear hyperbolic problem without source term, that we will call macroscopic
