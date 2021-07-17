@@ -9,6 +9,8 @@ location: "Zurich, Switzerland"
 pdf: /files/talks/defensePresentation_06_2020.pdf
 ---
 
+PhD Defense at UZH Zurich. The talk summarize the main topics of the thesis: high order methods for ODEs, hyperbolic PDEs and model order reduction techniques.
+
 [Slides](/files/talks/defensePresentation_06_2020.pdf)
 
 [Link to the PhD thesis](/files/theses/TorloPhDThesisOneSided.pdf)
