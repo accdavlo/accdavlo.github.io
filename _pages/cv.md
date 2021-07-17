@@ -14,12 +14,13 @@ Education
 * Ph.D. in Applied Mathematics, [University of Zurich](https://www.math.uzh.ch), 2020. [Dissertation](http://accdavlo.github.io/files/theses/TorloPhDThesisOneSided.pdf)
 * M.S. in Mathematics, [University of Trieste](https://www.units.it) and [SISSA](https://www.sissa.it), 2016. [Master Thesis](http://accdavlo.github.io/files/theses/TorloMasterThesis.pdf)
 * B.S. in Mathematics, [University of Milan--Bicocca](https://www.unimib.it), 2014.
+* Diploma Liceo Scientifico Mascheroni, Bergamo, 2011.
 
 Work experience
 ======
 * 10/20--now: Postdoctoral Fellow
   * INRIA Bordeaux - Team CARDAMOM
-  * Duties included: Tagging issues
+  * Projects: Stability of high order FEM with stabilization for advection problems, MOR for dispersive waves, exact solution of SW equations, high order methods for kinetic models for SW, high order entropy preserving/dissipative schemes
   * Supervisor: [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
 
 * 09/16--08/20: Research and Teaching Assistant
