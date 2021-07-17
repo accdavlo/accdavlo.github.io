@@ -18,6 +18,7 @@ Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numer
 ![Dispersion analysis](/images/research/dispersionAnalysis.png)
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem.
 ![Dispersive Waves](/images/research/KdVMOR.gif)
+<img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="150"/>
 1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](/publication/2021-02-10-ADER-is-DeC) and [mPDeC](/publication/2020-07-01-mPDeC).
 1. Kinetic models with macroscopic Shallow Water equations limit. Also here the use of an implicit DeC scheme allows to obtain high order methods.
 ![Kinetic SW](/images/research/plotTransFrictionPerturb.png)
@@ -30,8 +31,9 @@ During my PhD and my Master I've studied high order accurate methods and model o
 1. I have studied an implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [Publication on the topic](/publication/2020-06-29-high-order-IMEX-DeC)
 ![Shu Osher test](images/research/kineticEuler.png)
 1. MOR techniques for hyperbolic problems for advection dominated problems with an *ad hoc* arbitrary Lagrangian--Eulerian model to track the steep fronts, [here](/publication/2020-03-30-MOR-AD-ALE_1D), and for uncertainty quantification applications [here](/publication/2019-03-01-model-UQ).
-|------------|-------------|
-|Without ALE treatment|With ALE treatment|
-|![Eulerian](/images/research/ALEMOREulerian.png)|![Lagrangian](/images/research/ALEMORLagrangian.png)|
+
+Without ALE treatment|With ALE treatment
+:-------------------------:|:-------------------------:
+![Eulerian](/images/research/ALEMOREulerian.png)|![Lagrangian](/images/research/ALEMORLagrangian.png)
 1. Weighted MOR algorithm to speed up the computation in stochastic PDE. I wrote a [post](/posts/2021/02/wMOR/) on that and there is a [publication](/publication/2018-10-25-stabilized-weighted) about it.
 ![Advection Dominated](/images/research/MORadvDom.gif)
