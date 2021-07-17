@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Talks"
 permalink: /publicationsList/
 author_profile: true
 ---
@@ -12,5 +12,10 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}

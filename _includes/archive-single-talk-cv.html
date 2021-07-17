@@ -35,7 +35,7 @@
     </h3>
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}
-    {% if post.pdf%}, <a href="{{ post.pdf }}">PDF</a>{% endif %}
+    {% if post.pdf%} <a href="{{ post.pdf }}">PDF</a>{% endif %}
     </p>{% endif %}
     </li>
   </article>
