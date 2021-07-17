@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 
-[Compact list of publications and talks](/publicationList)
+[Compact list of publications and talks](/publicationsList)
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
