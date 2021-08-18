@@ -1,0 +1,33 @@
+---
+title: "A New Stability Approach for Positivity-preserving Patankar-type Schemes"
+collection: publications
+permalink: /publication/2021-08-18-stability-patankar
+excerpt: 'We study a new type of stability for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when $`\Delta t`$ is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
+date: 2021-08-18
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2108.07347'
+citation: 'R. Abgrall, E. Le Mélédo, P. Öffner and D. Torlo. (2021). &quot;Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
+pdf: /files/publications/Torlo2021StabilityPatankar.pdf
+---
+(Modified) **Patankar**-type schemes are linearly implicit time integration methods designed to be unconditionally positivity-preserving by going outside of the class of general linear methods for production--destruction systems (PDS). In practice, at every time stage a matrix is assembled using the production and destruction terms at the previous stages and a linear system must be solved.
+Thus, classical stability concepts cannot be applied and there is no satisfying stability theory for these schemes. 
+
+
+In particular, two issues appear. The first one is an **oscillation** issue around the steady state, which appear also for linear problems. These oscillations are common to all the schemes and can be observed only for *large* values of $`\Delta t`$. In this work we find some CFL-type restrictions on the timesteps for all the schemes that seem to provide stability also for nonlinear cases.
+
+CFL=1   | CFL=2
+:-------------------------:|:-------------------------:
+![Oscillations with CFL 1](/images/StabilityPatankar_oscillations_CFL1.png)|![Oscillations with CFL 2](/images/StabilityPatankar_oscillations_CFL2.png)
+
+
+The other issue that these methods show is the conservation of spurious *zero* steady state values. This happens only for few of these scheme or for some specific values. We study analytically, when possible, and numerically which of these schemes and for which parameters some of the schemes show this issue.
+
+![Spurious Steady State for MPRK](/images/StabilityPatankar_SteadyMPRK.png)
+
+![Spurious Steady State for MPDeC](/images/StabilityPatankar_SteadyDeC.png)
+
+
+
+[Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)
+
+[Arxiv page](https://arxiv.org/abs/2108.07347)
