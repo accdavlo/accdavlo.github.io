@@ -6,7 +6,7 @@ excerpt: 'We study a new type of stability for a class of positivity-preserving 
 date: 2021-08-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2108.07347'
-citation: 'R. Abgrall, E. Le Mélédo, P. Öffner and D. Torlo. (2021). &quot;Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
+citation: 'D. Torlo, P. Öffner and H. Ranocha. (2021). &quot;A New Stability Approach for Positivity-preserving Patankar-type Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
 pdf: /files/publications/Torlo2021StabilityPatankar.pdf
 ---
 (Modified) **Patankar**-type schemes are linearly implicit time integration methods designed to be unconditionally positivity-preserving by going outside of the class of general linear methods for production--destruction systems (PDS). In practice, at every time stage a matrix is assembled using the production and destruction terms at the previous stages and a linear system must be solved.
@@ -17,14 +17,14 @@ In particular, two issues appear. The first one is an **oscillation** issue arou
 
 CFL=1   | CFL=2
 :-------------------------:|:-------------------------:
-![Oscillations with CFL 1](/images/StabilityPatankar_oscillations_CFL1.png)|![Oscillations with CFL 2](/images/StabilityPatankar_oscillations_CFL2.png)
+![Oscillations with CFL 1](/images/research/StabilityPatankar_oscillations_CFL1.png)|![Oscillations with CFL 2](/images/research/StabilityPatankar_oscillations_CFL2.png)
 
 
 The other issue that these methods show is the conservation of spurious *zero* steady state values. This happens only for few of these scheme or for some specific values. We study analytically, when possible, and numerically which of these schemes and for which parameters some of the schemes show this issue.
 
-![Spurious Steady State for MPRK](/images/StabilityPatankar_SteadyMPRK.png)
+![Spurious Steady State for MPRK](/images/research/StabilityPatankar_SteadyMPRK.png)
 
-![Spurious Steady State for MPDeC](/images/StabilityPatankar_SteadyDeC.png)
+![Spurious Steady State for MPDeC](/images/research/StabilityPatankar_SteadyDeC.png)
 
 
 
