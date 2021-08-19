@@ -6,7 +6,7 @@ permalink: /talks/2021-07-26-kinetic-sw
 venue: "Numhyp 2021"
 date: 2021-07-26
 location: "Trento, Italy"
-pdf: /files/talks/stability_patankar_icosahom_MS_07_2021.pdf
+pdf: /files/talks/relaxation_IMEX_RD_DeC_Trento_07_21.pdf
 ---
 
 Kinetic models describe many physical phenomena, inter alia Boltzmann equations, but can also be used to approximate with an artificial relaxation procedure other macroscopic models. We consider the kinetic model proposed by Aregba-Driollet and Natalini \cite{natalini}, and we modify it in order to approximate shallow water (SW) equations. The difference with the original model stands in the presence of the source term in the SW equations due to the effect of the bathymetry. Thus, the kinetic model \cite{natalini} must be extended in order to include this term and to maintain the asymptotic convergence to the macroscopic limit of the SW problem.
@@ -17,6 +17,4 @@ The scheme proposed must verify many essential physical and numerical properties
 
 We show some numerical tests to validate the quality of the scheme.
 
-[Link to the video of the talk]()
-
-[Slides]()
+[Slides](/files/talks/relaxation_IMEX_RD_DeC_Trento_07_21.pdf)
