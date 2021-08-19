@@ -2,7 +2,7 @@
 title: "A New Stability Approach for Positivity-preserving Patankar-type Schemes"
 collection: publications
 permalink: /publication/2021-08-18-stability-patankar
-excerpt: 'We study a new type of stability for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when $\Delta t$ is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
+excerpt: 'We study a new type of stability for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when the timestep is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
 date: 2021-08-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2108.07347'
@@ -13,7 +13,7 @@ pdf: /files/publications/Torlo2021StabilityPatankar.pdf
 Thus, classical stability concepts cannot be applied and there is no satisfying stability theory for these schemes. 
 
 
-In particular, two issues appear. The first one is an **oscillation** issue around the steady state, which appear also for linear problems. These oscillations are common to all the schemes and can be observed only for *large* values of $$\Delta t$$. In this work we find some CFL-type restrictions on the timesteps for all the schemes that seem to provide stability also for nonlinear cases.
+In particular, two issues appear. The first one is an **oscillation** issue around the steady state, which appear also for linear problems. These oscillations are common to all the schemes and can be observed only for *large* values of the timestep. In this work we find some CFL-type restrictions on the timesteps for all the schemes that seem to provide stability also for nonlinear cases.
 
 CFL=1   | CFL=2
 :-------------------------:|:-------------------------:
