@@ -15,7 +15,7 @@ Testing the order of accuracy of (very) high order methods for shallow water (an
  * Another formulation used more in the Shallow water community is the one proposed in *Ricchiuto, M., & Bollermann, A. (2009). Stabilized residual distribution for shallow water simulations. Journal of Computational Physics, 228(4), 1071-1115.* It is based on a cosine function restricted on an disk. This solution, though being compact supported, is not smooth. Indeed, the solution for water height has continuous derivative up to the 4th one, while the discharge only up to the 2nd. So the test is not suited to study the order of accuracy of methods with more than second order. We introduce a generalization of such solutions with *2p* continuous derivatives in the discharge, which can be used with any method.
  * A final class of vortexes is presented where the integral analytical formula used from the previous vortexes is exploited in an derivative sense. Hence, the complicated integral computations can be substituted by a simple derivation. It is then easy to start from a [smooth compact supported bump](https://en.wikipedia.org/wiki/Bump_function) for the perturbation of the water height and to derive the analytical formula for the discharge.
 
-![Vortex picture](/images/reasearch/vortex.png)
+![Vortex picture](/images/research/vortex.png)
 
 [Download paper](/files/publications/ricchiuto2021vortex.pdf)
 
