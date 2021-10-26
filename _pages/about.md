@@ -23,6 +23,8 @@ Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numer
 ![Kinetic SW](/images/research/plotTransFrictionPerturb.png)
 1. Stability of modified Patankar schemes, which are positive preserving schemes, but can show oscillations and inconsistency under certain conditions.
 <img src="/images/research/RobertsonUnstable.png" alt="Robertson Problem MP" width="350"/>
+1. Applications of the [mPDeC](/publication/2020-07-01-mPDeC) to shallow water equations for very accurate and positivity preserving schemes. Check out [Shallow Water mPDeC WENO](/publication/2021-10-27-sw-mpdec)
+![Island simulation](/images/research/sw_mPDeC_island.gif)
 
 Previous Projects
 =================
