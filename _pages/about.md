@@ -14,17 +14,17 @@ Hello visitor! I am Davide Torlo, a postdoctoral researcher at [INRIA Bordeaux](
 Current research
 ======
 Currently I work at CARDAMOM team in INRIA - Bordeaux. I work on different Numerical Analysis projects.
-1. Stabilized Finite Element methods. We are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme. 
-![Dispersion analysis](/images/research/dispersionAnalysis.png)
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem.
 <img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="350"/>
 1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](/publication/2021-02-10-ADER-is-DeC) and [mPDeC](/publication/2020-07-01-mPDeC).
+1. Applications of the [mPDeC](/publication/2020-07-01-mPDeC) to shallow water equations for very accurate and positivity preserving schemes. Check out [Shallow Water mPDeC WENO](/publication/2021-10-27-sw-mpdec)
+![Island simulation](/images/research/sw_mPDeC_island.gif)
+1. Stabilized Finite Element methods. We are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme. 
+![Dispersion analysis](/images/research/dispersionAnalysis.png)
 1. Kinetic models with macroscopic Shallow Water equations limit. Also here the use of an implicit DeC scheme allows to obtain high order methods.
 ![Kinetic SW](/images/research/plotTransFrictionPerturb.png)
 1. Stability of modified Patankar schemes, which are positive preserving schemes, but can show oscillations and inconsistency under certain conditions.
 <img src="/images/research/RobertsonUnstable.png" alt="Robertson Problem MP" width="350"/>
-1. Applications of the [mPDeC](/publication/2020-07-01-mPDeC) to shallow water equations for very accurate and positivity preserving schemes. Check out [Shallow Water mPDeC WENO](/publication/2021-10-27-sw-mpdec)
-![Island simulation](/images/research/sw_mPDeC_island.gif)
 
 Previous Projects
 =================
