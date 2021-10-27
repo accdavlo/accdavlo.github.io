@@ -9,6 +9,8 @@ paperurl: 'https://arxiv.org/abs/2108.07347'
 citation: 'D. Torlo, P. Öffner and H. Ranocha. (2021). &quot;A New Stability Approach for Positivity-preserving Patankar-type Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
 pdf: /files/publications/Torlo2021StabilityPatankar.pdf
 ---
+This is a work in collaboration with [Philipp Öffner](https://philippoeffner.de/) and [Hendrik Ranocha](https://ranocha.de/).
+
 (Modified) **Patankar**-type schemes are linearly implicit time integration methods designed to be unconditionally positivity-preserving by going outside of the class of general linear methods for production--destruction systems (PDS). In practice, at every time stage a matrix is assembled using the production and destruction terms at the previous stages and a linear system must be solved.
 Thus, classical stability concepts cannot be applied and there is no satisfying stability theory for these schemes. 
 

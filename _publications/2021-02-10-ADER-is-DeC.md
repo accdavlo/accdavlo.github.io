@@ -9,6 +9,8 @@ paperurl: 'https://doi.org/10.1007/s10915-020-01397-5'
 citation: 'M. H. Veiga, P. Öffner, and D. Torlo. (2021). &quot;DeC and ADER: Similarities, Differences and a Unified Framework.&quot; <i>Journal of Scientific Computing</i>, 87, 2 (2021). https://doi.org/10.1007/s10915-020-01397-5.'
 pdf: /files/publications/Veiga2021ADERisDeC.pdf
 ---
+This is a work in collaboration with Maria Han Veiga and [Philipp Öffner](https://philippoeffner.de/).
+
 In this paper, we demonstrate that the explicit ADER approach can be seen as a special interpretation of the deferred correction (DeC) method.
 By using this fact, we are able to embed ADER in a theoretical background of time integration schemes and prove the relation between the accuracy order and the number of iterations which are needed to reach the desired order.
 Next, we extend our investigation to stiff ODEs, treating these source terms implicitly. Some differences in the interpretation and implementation can be found. Using DeC yields typically a much simpler implementation, while ADER benefits from a higher accuracy, at least for our numerical simulations.  Then, we also focus on the PDE case and present common space-time discretizations using DeC and ADER in closed forms.

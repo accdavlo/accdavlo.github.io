@@ -9,6 +9,8 @@ paperurl: 'https://arxiv.org/abs/2109.10183'
 citation: 'M. Ricchiuto and D. Torlo. (2021). &quot;Analytical traveling vortex  solutions of hyperbolic equations for validating very high order schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2109.10183.'
 pdf: /files/publications/ricchiuto2021vortex.pdf
 ---
+This is a work in collaboration with [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/).
+
 Testing the order of accuracy of (very) high order methods for shallow water (and Euler) equations is a delicate operation and the test cases are the crucial starting point of this operation. We provide a short derivation of vortex-like analytical solutions in 2 dimensions for the shallow water equations (and, hence, Euler equations) that can be used to test the order of accuracy of numerical methods. 
 
  * There are non compact vortexes, which are well known in literature, based on Gaussians shapes, hence suited for arbiratrily high order schemes. These are very simple to integrate and derivate, so their analytical form is particularly managable. On the other side one has to be careful with the boundaries. Choosing the domain large enough one can reach machine precision close at the boundary of the domain and obtain the goal.
