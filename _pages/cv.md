@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* 10/20--now: Postdoctoral Fellow
+* 12/21--now: SISSA Postdoctoral Fellow
+  * [SISSA](https://www.sissa.it): International School of Advanced Studies - Trieste, Italy
+  * Project: Model order reduction techniques for advection dominated problems
+  * Group of prof. [Gianluigi Rozza](https://people.sissa.it/~grozza/) 
+* 10/20--11/21: Postdoctoral Fellow
   * INRIA Bordeaux - Team CARDAMOM
   * Projects: Stability of high order FEM with stabilization for advection problems, MOR for dispersive waves, exact solution of SW equations, high order methods for kinetic models for SW, high order entropy preserving/dissipative schemes
   * Supervisor: [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)

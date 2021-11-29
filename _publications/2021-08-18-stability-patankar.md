@@ -1,12 +1,12 @@
 ---
-title: "A New Stability Approach for Positivity-preserving Patankar-type Schemes"
+title: "Issues with Positivity-Preserving Patankar-type Schemes"
 collection: publications
 permalink: /publication/2021-08-18-stability-patankar
-excerpt: 'We study a new type of stability for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when the timestep is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
+excerpt: 'We study various properties for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when the timestep is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
 date: 2021-08-18
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2108.07347'
-citation: 'D. Torlo, P. Öffner and H. Ranocha. (2021). &quot;A New Stability Approach for Positivity-preserving Patankar-type Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
+citation: 'D. Torlo, P. Öffner and H. Ranocha. (2021). &quot;Issues with Positivity-Preserving Patankar-type Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
 pdf: /files/publications/Torlo2021StabilityPatankar.pdf
 ---
 This is a work in collaboration with [Philipp Öffner](https://philippoeffner.de/) and [Hendrik Ranocha](https://ranocha.de/).
@@ -22,7 +22,7 @@ CFL=1   | CFL=2
 ![Oscillations with CFL 1](/images/research/StabilityPatankar_oscillations_CFL1.png)|![Oscillations with CFL 2](/images/research/StabilityPatankar_oscillations_CFL2.png)
 
 
-The other issue that these methods show is the conservation of spurious *zero* steady state values. This happens only for few of these scheme or for some specific values. We study analytically, when possible, and numerically which of these schemes and for which parameters some of the schemes show this issue.
+The other issue that these methods show are **spurious *zero* steady state** values in the limit for initial conditions going to zero. This happens only for few of these scheme or for some specific values. We study analytically, when possible, and numerically which of these schemes and for which parameters some of the schemes show this issue.
 
 ![Spurious Steady State for MPRK](/images/research/StabilityPatankar_SteadyMPRK.png)
 
