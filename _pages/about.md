@@ -14,8 +14,9 @@ Hello visitor! I am Davide Torlo, a Postdoctoral Fellow at [SISSA](https://www.s
 Current research
 ======
 Currently I have a SISSA Mathematical Fellowship and I work in prof. Rozza's group on Model Order Reduction for advection dominated problems. I have also various Numerical Analysis projects on hyperbolic PDEs, structure preserving methods for ODEs and PDEs and arbitrarily high order methods.
-1. Reduced order models for advection dominated problems. These problems have a very slow decay of the Kolmogorov `$n$`-width. Hence, specific techniques must be used to obatain computational reduction. Ingredients that I retain fundamental in this topic are: an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration.
+1. Reduced order models for advection dominated problems. These problems have a very slow decay of the Kolmogorov n-width. Hence, specific techniques must be used to obatain computational reduction. Ingredients that I retain fundamental in this topic are: an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration.
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem. *Soon to be submitted.*
+
 <img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="350"/>
 1. Arbitarily high order time integration schemes. I am often working with the Deferred Correction (DeC) time integration method or with ADER. I study their properties and their possible extentions to structure preserving schemes. Check out [ADER is DeC](/publication/2021-02-10-ADER-is-DeC) and [mPDeC](/publication/2020-07-01-mPDeC).
 1. Applications of the [mPDeC](/publication/2020-07-01-mPDeC) to shallow water equations for very accurate and positivity preserving schemes. Check out [Shallow Water mPDeC WENO](/publication/2021-10-27-sw-mpdec)
