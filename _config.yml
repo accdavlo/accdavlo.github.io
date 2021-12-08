@@ -83,7 +83,7 @@ author:
   name             : "Davide Torlo"
   avatar           : "IMG_9679small.jpg"
   bio              : "Postdoctoral researcher in applied Mathematics."
-  location         : "Bordeaux, France"
+  location         : "Trieste, Italy"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=OFfJgFwAAAAJ&hl=it"
@@ -96,6 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  github           : "accdavlo"
   uzhGitlab        : "abgrall_group"
   inriaGitlab      : "dtorlo1"
   google_plus      :
