@@ -6,7 +6,7 @@ excerpt: 'Water waves can be approximated with different models. Dispersive-hype
 date: 2021-12-23
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2112.10608'
-citation: 'D. Torlo and M. Ricchiuto. (2021). &quot;An Arbitrary High Order and Positivity Preserving Method for the Shallow Water Equations. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2112.10608.'
+citation: 'D. Torlo and M. Ricchiuto. (2021). &quot;Model order reduction strategies for weakly dispersive waves. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2112.10608.'
 pdf: /files/publications/Torlo2021mor-dispersive-waves-1D.pdf
 ---
 This is a work in collaboration with Mario Ricchiuto.
