@@ -22,7 +22,7 @@ CFL=1   | CFL=2
 ![Oscillations with CFL 1](/images/research/StabilityPatankar_oscillations_CFL1.png)|![Oscillations with CFL 2](/images/research/StabilityPatankar_oscillations_CFL2.png)
 
 
-The other issue that these methods show are **spurious *zero* steady state** values in the limit for initial conditions going to zero. This happens only for few of these scheme or for some specific values. We study analytically, when possible, and numerically which of these schemes and for which parameters some of the schemes show this issue.
+The other issue that these methods show is **loss of accuracy** in the limit for initial conditions going to zero. This happens only for few of these scheme or for some specific parameters. We study analytically which of these schemes lose order of accuracy and we find the reduced order of accuracy for all presented schemes.
 
 ![Spurious Steady State for MPRK](/images/research/StabilityPatankar_SteadyMPRK.png)
 
