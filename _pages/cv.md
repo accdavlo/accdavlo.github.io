@@ -57,6 +57,15 @@ Skills
   * German (B2)
   * French (A1)
 
+Reviewer
+======
+* Reviewer of Scientific Journals
+  * [JCP: Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
+  * [CAF: Computer and Fluids](https://www.sciencedirect.com/journal/computers-and-fluids)
+  * [M2AN: Mathematical Modelling and Numerical Analysis](https://www.esaim-m2an.org/)
+  * [MATCOM: Mathematics and COmputers in Simulation](https://www.journals.elsevier.com/mathematics-and-computers-in-simulation)
+  * [AMC: Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation)
+  * [Fluids](https://www.mdpi.com/journal/fluids)
 
 Publications
 ======
