@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2021-08-18-stability-patankar
 excerpt: 'We study various properties for a class of positivity-preserving nonlinear schemes (Patankar-type schemes) and we discover two types of issues: oscillations around stady states when the timestep is too large and spurious steady states where some methods get stuck. [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)'
 date: 2021-08-18
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2108.07347'
-citation: 'D. Torlo, P. Öffner and H. Ranocha. (2021). &quot;Issues with Positivity-Preserving Patankar-type Schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2108.07347.'
+venue: 'Applied Numerical Mathematics'
+paperurl: 'https://doi.org/10.1016/j.apnum.2022.07.014'
+citation: 'D. Torlo, P. Öffner and H. Ranocha. (2022). &quot;Issues with Positivity-Preserving Patankar-type Schemes. &quot; <i>Applied Numerical Mathematics</i>, 182, 117-147.'
 pdf: /files/publications/Torlo2021StabilityPatankar.pdf
 ---
 This is a work in collaboration with [Philipp Öffner](https://philippoeffner.de/) and [Hendrik Ranocha](https://ranocha.de/).
@@ -33,3 +33,5 @@ The other issue that these methods show is **loss of accuracy** in the limit for
 [Download paper](/files/publications/Torlo2021StabilityPatankar.pdf)
 
 [Arxiv page](https://arxiv.org/abs/2108.07347)
+
+[Paper url](https://doi.org/10.1016/j.apnum.2022.07.014)
