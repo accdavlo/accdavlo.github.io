@@ -44,11 +44,11 @@ The preliminary results show an incredible reduction in computational costs for 
 
 Linear Elasticity FOM      |  Linear Elasticity ROM 
 :-------------------------:|:-------------------------:
-![FOM simulation](/files/images/posts/friedrichs_more22/elastic/FOM12.png)|![ROM simulation](/files/images/posts/friedrichs_more22/elastic/ROM12.png)
+![FOM simulation](/files/images/posts/friedrichs_more22/elastic/FOM_12.png)|![ROM simulation](/files/images/posts/friedrichs_more22/elastic/ROM_12.png)
 
 Curl-curl FOM      |  Curl-curl ROM 
 :-------------------------:|:-------------------------:
-![FOM simulation](/files/images/posts/friedrichs_more22/maxwell/FOM18.png)|![ROM simulation](/files/images/posts/friedrichs_more22/maxwell/ROM18.png)
+![FOM simulation](/files/images/posts/friedrichs_more22/maxwell/FOM_18.png)|![ROM simulation](/files/images/posts/friedrichs_more22/maxwell/ROM_18.png)
 
 
 
