@@ -9,7 +9,7 @@ location: "Berlin, Germany"
 pdf: /files/talks/friedrichs_more22.pdf
 ---
 
-Friedrichs' systems (FS) \cite{friedrichs1958symmetric} are symmetric positive linear systems  of first order PDEs that can describe many well known hyperbolic and elliptic problems in a unified framework. This allows, for example, to pass from one regime to another in different areas of the domain.
+Friedrichs' systems (FS) *K. O. Friedrichs. Comm. Pure & App. Math, 1958* are symmetric positive linear systems  of first order PDEs that can describe many well known hyperbolic and elliptic problems in a unified framework. This allows, for example, to pass from one regime to another in different areas of the domain.
 One of the key ingredients of FS is the possibility of rewriting higher order derivative terms of PDEs through additional variables in the system of equations with only first order terms. 
 This leads to a formulation composed by a linear combination of many block-structured fields $\mathcal{A}^k$ applied to the unknown $z$ and its first order derivatives, i.e.,
 $$
