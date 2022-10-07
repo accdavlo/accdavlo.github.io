@@ -15,6 +15,8 @@ Current research
 ======
 Currently I have a SISSA Mathematical Fellowship and I work in prof. Rozza's group on Model Order Reduction for advection dominated problems. I have also various Numerical Analysis projects on hyperbolic PDEs, structure preserving methods for ODEs and PDEs and arbitrarily high order methods.
 1. Reduced order models for advection dominated problems. These problems have a very slow decay of the Kolmogorov n-width. Hence, specific techniques must be used to obatain computational reduction. Ingredients that I retain fundamental in this topic are: an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration.
+1. Friedrichs' systems: a bridge between hyperbolic and elliptic models. We developed model order reduction techniques on such problems including sharp error estimators. Check out my talk [Talk on Friedrichs' Systems](/talks/2022-09-22-friedrichs) 
+1. An efficient implementation of the Deffered Correction algorithm. Check out [efficient DeC](/publication/2022-10-06-efficient-dec)
 1. Applications of the [mPDeC](/publication/2020-07-01-mPDeC) to shallow water equations for very accurate and positivity preserving schemes. Check out [Shallow Water mPDeC WENO](/publication/2021-10-27-sw-mpdec)
 ![Island simulation](/images/research/sw_mPDeC_island.gif)
 1. Reduced model for dispersive waves. The goal is to split dispersive waves equations into hyperbolic and elliptic part and to reduce the model for the elliptic part of the problem. 

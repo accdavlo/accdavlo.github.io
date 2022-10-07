@@ -43,6 +43,24 @@ Work experience
   
 * 01/10--06/14: Video editor
   
+
+Main Collaborators
+======
+* [Gianluigi Rozza](https://people.sissa.it/~grozza/)
+* [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
+* [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
+* [Philipp Öffner](https://philippoeffner.de/)
+
+
+Co-tutoring
+======
+* Ivan Prusak (SISSA PhD student)
+* Lorenzo Micalizzi (UZH PhD student)
+* Mirco Ciallella (INRIA PhD student)
+* Sixtine Michel (INRIA PhD student)
+
+
+
   
 Skills
 ======
