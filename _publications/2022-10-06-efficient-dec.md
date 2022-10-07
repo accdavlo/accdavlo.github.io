@@ -20,6 +20,14 @@ We provide the Butcher tableaux of the novel methods and we study their stabilit
 The flexibility of the novel modification allows nontrivial applications to PDEs and construction of adaptive methods.
 The good performances of the introduced methods are broadly tested on several benchmarks both in the ODE and PDE settings.
 
+
+The speed up factor for a vibrating system problem
+
+Equispaced nodes     |  Gauss-Lobatto nodes 
+:-------------------------:|:-------------------------:
+![FOM simulation](/files/images/posts/eff_dec/pic_16.png)|![ROM simulation](/files/images/posts/eff_dec/pic_17.png)
+
+
 [Download paper](/files/publications/Micalizzi2022efficientDeC.pdf)
 
 [Download supplementary material](/files/publications/Micalizzi2022efficientDeC_supplement.pdf)
