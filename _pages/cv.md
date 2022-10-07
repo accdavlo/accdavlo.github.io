@@ -95,6 +95,7 @@ Publications
 
 Service and leadership
 ======
+* 10/22--10/23: Member of SISSA Senate
 * 12/14--08/16: Faculty Students' Representative
 * 01/13--06/16: Organizer of Bergamo Beatles Festival
 * 10/10--06/11: High School Students' Representative
