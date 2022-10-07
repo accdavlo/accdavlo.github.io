@@ -7,8 +7,8 @@ excerpt: 'Deferred Correction methods are arbitrarily high order methods that co
 date: 2022-10-06
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2206.03889'
-citation: 'L. Micalizzi and D. Torlo. (2022). &quot;A new efficient explicit Deferred Correction framework: analysis and applications to hyperbolic PDEs and adaptivity. &quot; <i>arXiv preprint</i>, 2022. https://arxiv.org/abs/2206.03889.'
-pdf: /files/publications/Gaburro2022ADERrelaxation.pdf
+citation: 'L. Micalizzi and D. Torlo. (2022). &quot;A new efficient explicit Deferred Correction framework: analysis and applications to hyperbolic PDEs and adaptivity. &quot; <i>arXiv preprint</i>, 2022. https://arxiv.org/abs/2210.02976.'
+pdf: /files/publications/Micalizzi2022efficientDeC.pdf
 ---
 This is a work in collaboration with Lorenzo Micalizzi.
 
@@ -24,4 +24,4 @@ The good performances of the introduced methods are broadly tested on several be
 
 [Download supplementary material](/files/publications/Micalizzi2022efficientDeC_supplement.pdf)
 
-[Arxiv page](https://arxiv.org/abs/2206.03889)
+[Arxiv page](https://arxiv.org/abs/2210.02976)
