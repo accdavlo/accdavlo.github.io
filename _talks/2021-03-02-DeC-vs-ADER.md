@@ -1,5 +1,5 @@
 ---
-title: "ADER and DeC: Arbitrarily High Order Explicit Methods for hyperblic PDEs and ODEs"
+title: "ADER and DeC: Arbitrarily High Order Explicit Methods for hyperbolic PDEs and ODEs"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-03-02-DeC-vs-ADER
