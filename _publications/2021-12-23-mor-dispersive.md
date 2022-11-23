@@ -5,8 +5,8 @@ permalink: /publication/2021-12-23-mor-dispersive
 excerpt: 'Water waves can be approximated with different models. Dispersive-hyperbolic models serve this scope under smallness conditions of nonlinearity and shallowness parameters. The discretization of these models consists often of a hyperbolic system coupled with an elliptic system. In this work we reduce with standard model order reduction techniques the elliptic operator. Finally, we apply some hyperreduction to reduce the whole system. [Download paper](/files/publications/Torlo2021mor-dispersive-waves-1D.pdf)'
 date: 2021-12-23
 venue: 'arXiv'
-paperurl: 'https://doi.org/10.1016/j.amc.2022.127644'
-citation: 'D. Torlo and M. Ricchiuto. (2021). &quot;Model order reduction strategies for weakly dispersive waves. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2112.10608.'
+paperurl: 'https://doi.org/10.1016/j.matcom.2022.10.034'
+citation: 'D. Torlo and M. Ricchiuto. &quot;Model order reduction strategies for weakly dispersive waves. &quot; <i>Mathematics and Computers in Simulation</i>, (205), pages 997-1028, 2023.'
 pdf: /files/publications/Torlo2021mor-dispersive-waves-1D.pdf
 ---
 This is a work in collaboration with Mario Ricchiuto.
@@ -25,7 +25,7 @@ robustness, and for the EIMROM in terms of cost reduction.
 
 ![KdV MOR](/images/research/KdVMORcompress.gif)
 
-[Article link](https://doi.org/10.1016/j.amc.2022.127644)
+[Article link](https://doi.org/10.1016/j.matcom.2022.10.034)
 
 [Download paper](/files/publications/Torlo2021mor-dispersive-waves-1D.pdf)
 
