@@ -30,7 +30,6 @@ These problems have a very slow decay of the Kolmogorov n-width. Hence, specific
  * nonlinear strategies including neural networks to tackle the problem, we are studying it now for [Talk on Friedrichs' Systems](/talks/2022-09-22-friedrichs) 
 
 Other more classical ROM have been used for [dispersive wave equations](/publication/2021-12-23-mor-dispersive), in [UQ context](/publication/2019-03-01-model-UQ), for [advection-dominated problems](/publication/2018-10-25-stabilized-weighted) or for [domain decomposition](/publication/2022-11-30-optimization-domain-decomposition).
-<img src="/images/research/KdVMOR.gif" alt="Dispersive Waves" width="350"/>
 ![Advection Dominated](/images/research/MORadvDom.gif)
 
 ### Arbitrarily high order methods
@@ -41,4 +40,4 @@ Arbitrarily high order methods allow to obtain very accurate solutions within mi
  * For stabilized Finite Element methods in [one dimension](/publication/2021-03-31-dispersion-analysis) and in [two dimensions on triangular meshes](/publication/2022-06-14-dispersion-analysis-triangular) we are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme. 
 ![Dispersion analysis](/images/research/dispersionAnalysis.png)
  * Implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [IMEX DeC on residual distribution schemes](/publication/2020-06-29-high-order-IMEX-DeC) and [IMEX DeC on finite difference schemes](/publication/2022-01-28-lattice-boltzmann)
-<img src="/images/research/kineticEuler.png" alt="Shu Osher test" width="350"/>
+![Shu Osher test](/images/research/kineticEuler.png)
