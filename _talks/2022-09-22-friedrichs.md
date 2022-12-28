@@ -3,7 +3,7 @@ title: "Model order reduction for Friedrichs' systems: a bridge between elliptic
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-22-friedrichs
-venue: "HONOM 2022"
+venue: "MORE 2022"
 date: 2022-09-22
 location: "Berlin, Germany"
 pdf: /files/talks/friedrichs_more22.pdf

@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](/files/cv.pdf)
+
 Education
 ======
-* Ph.D. in Applied Mathematics, [University of Zurich](https://www.math.uzh.ch), 2020. [Dissertation](http://accdavlo.github.io/files/theses/TorloPhDThesisOneSided.pdf)
-* M.S. in Mathematics, [University of Trieste](https://www.units.it) and [SISSA](https://www.sissa.it), 2016. [Master Thesis](http://accdavlo.github.io/files/theses/TorloMasterThesis.pdf)
+* Ph.D. in Applied Mathematics, [University of Zurich](https://www.math.uzh.ch), 2020. [Dissertation](/files/theses/TorloPhDThesisOneSided.pdf)
+* M.S. in Mathematics, [University of Trieste](https://www.units.it) and [SISSA](https://www.sissa.it), 2016. [Master Thesis](/files/theses/TorloMasterThesis.pdf)
 * B.S. in Mathematics, [University of Milan--Bicocca](https://www.unimib.it), 2014.
 * Diploma Liceo Scientifico Mascheroni, Bergamo, 2011.
+
 
 Work experience
 ======
@@ -22,7 +25,7 @@ Work experience
   * [SISSA](https://www.sissa.it): International School of Advanced Studies - Trieste, Italy
   * Project: Model order reduction techniques for advection dominated problems
   * Group of prof. [Gianluigi Rozza](https://people.sissa.it/~grozza/) 
-* 10/20--11/21: Postdoctoral Fellow
+ * 10/20--11/21: Postdoctoral Fellow
   * INRIA Bordeaux - Team CARDAMOM
   * Projects: Stability of high order FEM with stabilization for advection problems, MOR for dispersive waves, exact solution of SW equations, high order methods for kinetic models for SW, high order entropy preserving/dissipative schemes
   * Supervisor: [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
@@ -54,6 +57,9 @@ Main Collaborators
 
 Co-tutoring
 ======
+* Louis Petri (University of Mainz Master student)
+* Gaia Buccino (Polimi Master student)
+* [Pavan Pranjivan Mehta](https://www.pavanpmehta.com/)  (SISSA PhD student)
 * Ivan Prusak (SISSA PhD student)
 * Lorenzo Micalizzi (UZH PhD student)
 * Mirco Ciallella (INRIA PhD student)
