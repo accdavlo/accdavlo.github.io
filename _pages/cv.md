@@ -25,25 +25,21 @@ Work experience
   * [SISSA](https://www.sissa.it): International School of Advanced Studies - Trieste, Italy
   * Project: Model order reduction techniques for advection dominated problems
   * Group of prof. [Gianluigi Rozza](https://people.sissa.it/~grozza/) 
- * 10/20--11/21: Postdoctoral Fellow
+* 10/20--11/21: Postdoctoral Fellow
   * INRIA Bordeaux - Team CARDAMOM
   * Projects: Stability of high order FEM with stabilization for advection problems, MOR for dispersive waves, exact solution of SW equations, high order methods for kinetic models for SW, high order entropy preserving/dissipative schemes
   * Supervisor: [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
-
 * 09/16--08/20: Research and Teaching Assistant
   * University of Zurich - Institute of Mathematics
   * Teaching at Bachelor, Master and PhD students in Mathematics and Computer Science
   * Supervisor: [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
-
 * 09/10--08/16: Private Teacher
   * Mathematics and Physics classes for high school and university students
-
 * 01/10--06/16: Theatrical technician
   * TACT International Act Festival Trieste
   * Teatro Stabile Sloveno, Trieste
   * Auditorium via Alberico da Rosciate, Bergamo
   * Teatro Qoelet, Bergamo
-  
 * 01/10--06/14: Video editor
   
 
