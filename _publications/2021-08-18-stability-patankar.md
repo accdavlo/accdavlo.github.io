@@ -8,6 +8,7 @@ venue: 'Applied Numerical Mathematics'
 paperurl: 'https://doi.org/10.1016/j.apnum.2022.07.014'
 citation: 'D. Torlo, P. Öffner and H. Ranocha. (2022). &quot;Issues with Positivity-Preserving Patankar-type Schemes. &quot; <i>Applied Numerical Mathematics</i>, 182, 117-147.'
 pdf: /files/publications/Torlo2021StabilityPatankar.pdf
+bib: /files/publications/bib/torlo2022issues.bib
 ---
 This is a work in collaboration with [Philipp Öffner](https://philippoeffner.de/) and [Hendrik Ranocha](https://ranocha.de/).
 

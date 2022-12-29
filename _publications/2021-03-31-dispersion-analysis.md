@@ -8,6 +8,7 @@ venue: 'Journal of Scientific Computing'
 paperurl: 'https://doi.org/10.1007/s10915-021-01632-7'
 citation: 'Michel, S., Torlo, D., Ricchiuto, M. and Abgrall, R.. Spectral Analysis of Continuous FEM for Hyperbolic PDEs: Influence of Approximation, Stabilization, and Time-Stepping. J Sci Comput 89, 31 (2021). https://doi.org/10.1007/s10915-021-01632-7'
 pdf: /files/publications/Michel2021Spectral.pdf
+bib: /files/publications/bib/michel2021spectral.bib
 ---
 This is a work in collaboration with Sixtine Michel, [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/) and [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882).
 

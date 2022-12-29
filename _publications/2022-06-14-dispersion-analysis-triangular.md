@@ -8,6 +8,7 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2206.06150'
 citation: 'Michel, S., Torlo, D., Ricchiuto, M. and Abgrall, R.. Spectral analysis of high order continuous FEM for hyperbolic PDEs on triangular meshes: influence of approximation, stabilization, and time-stepping. arXiv:2206.06150 (2022).'
 pdf: /files/publications/Michel2022Spectral.pdf
+bib: /files/publications/bib/michel2022spectral.bib
 ---
 This is a work in collaboration with Sixtine Michel, [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/) and [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882).
 

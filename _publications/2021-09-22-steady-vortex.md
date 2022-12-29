@@ -8,6 +8,7 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2109.10183'
 citation: 'M. Ricchiuto and D. Torlo. (2021). &quot;Analytical traveling vortex  solutions of hyperbolic equations for validating very high order schemes. &quot; <i>arXiv preprint</i>, https://arxiv.org/abs/2109.10183.'
 pdf: /files/publications/ricchiuto2021vortex.pdf
+bib: /files/publications/bib/ricchiuto2021analytical.bib
 ---
 This is a work in collaboration with [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/).
 

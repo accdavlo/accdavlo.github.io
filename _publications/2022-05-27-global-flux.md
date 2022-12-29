@@ -8,6 +8,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2205.13315'
 citation: 'M. Ciallella, D. Torlo and M. Ricchiuto. (2022). &quot;Arbitrary High Order WENO Finite Volume Scheme with Flux Globalization for Moving Equilibria Preservation. &quot; <i>arXiv preprint</i>, 2022. https://arxiv.org/abs/2205.13315.'
 pdf: /files/publications/Ciallella2022globalFlux.pdf
+bib: /files/publications/bib/ciallella2022global.bib
 ---
 This is a work in collaboration with Mirco Ciallella and Mario Ricchiuto.
 

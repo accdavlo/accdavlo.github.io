@@ -8,6 +8,7 @@ venue: 'Communications in Mathematical Sciences'
 paperurl: 'https://dx.doi.org/10.4310/CMS.2022.v20.n2.a1'
 citation: 'R. Abgrall and D. Torlo. (2022). &quot;Some preliminary results on a high order asymptotic preserving computationally explicit kinetic scheme. &quot; <i>Communications in Mathematical Sciences</i>, 20, 2, 297-326. https://dx.doi.org/10.4310/CMS.2022.v20.n2.a1.'
 pdf: /files/publications/Abgrall2022kineticScheme.pdf
+bib: /files/publications/bib/abgrall2022preliminary.bib
 ---
 This is a work in collaboration with [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882).
 

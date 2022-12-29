@@ -9,6 +9,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2211.08905'
 citation: 'T. Izgin, P. Öffner and D. Torlo. &quot;A necessary condition for non oscillatory and positivity preserving time-integration schemes.&quot; (2022) <i>arXiv preprint</i>, arXiv:2211.08905.'
 pdf: /files/publications/Izgin2022necessary.pdf
+bib: /files/publications/bib/izgin2022necessary.bib
 ---
 This is a work in collaboration with Thomas Izgin and  [Philipp Öffner](https://philippoeffner.de/) .
 

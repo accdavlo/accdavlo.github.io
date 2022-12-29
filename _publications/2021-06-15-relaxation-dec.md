@@ -8,6 +8,7 @@ venue: 'The SMAI Journal of computational mathematics'
 paperurl: 'https://doi.org/10.5802/smai-jcm.82'
 citation: 'R. Abgrall, E. Le Mélédo, P. Öffner and D. Torlo. (2022). &quot;Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes. &quot;  <i>The SMAI Journal of computational mathematics</i>, Volume 8 (2022), pp. 125-160. doi:10.5802/smai-jcm.82'
 pdf: /files/publications/Abgrall2021RelaxationDeC.pdf
+bib: /files/publications/bib/abgrall2021relaxation.bib
 ---
 This is a work in collaboration with [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882), Elise Le Mélédo and [Philipp Öffner](https://philippoeffner.de/).
 

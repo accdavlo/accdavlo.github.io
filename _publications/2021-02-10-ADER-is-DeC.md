@@ -8,6 +8,7 @@ venue: 'Journal of Scientific Computing'
 paperurl: 'https://doi.org/10.1007/s10915-020-01397-5'
 citation: 'M. H. Veiga, P. Öffner, and D. Torlo. (2021). &quot;DeC and ADER: Similarities, Differences and a Unified Framework.&quot; <i>Journal of Scientific Computing</i>, 87, 2 (2021). https://doi.org/10.1007/s10915-020-01397-5.'
 pdf: /files/publications/Veiga2021ADERisDeC.pdf
+bib: /files/publications/bib/han2021dec.bib
 ---
 This is a work in collaboration with Maria Han Veiga and [Philipp Öffner](https://philippoeffner.de/).
 

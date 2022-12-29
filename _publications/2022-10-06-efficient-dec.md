@@ -9,6 +9,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2206.03889'
 citation: 'L. Micalizzi and D. Torlo. (2022). &quot;A new efficient explicit Deferred Correction framework: analysis and applications to hyperbolic PDEs and adaptivity. &quot; <i>arXiv preprint</i>, 2022. https://arxiv.org/abs/2210.02976.'
 pdf: /files/publications/Micalizzi2022efficientDeC.pdf
+bib: /files/publications/bib/micalizzi2022new.bib
 ---
 This is a work in collaboration with Lorenzo Micalizzi.
 

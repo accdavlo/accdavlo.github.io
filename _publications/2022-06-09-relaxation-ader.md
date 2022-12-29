@@ -8,6 +8,7 @@ venue: 'Applied Mathematics and Computation'
 paperurl: 'https://doi.org/10.1016/j.amc.2022.127644'
 citation: 'E. Gaburro, P. Öffner, M. Ricchiuto and D. Torlo. &quot;High order entropy preserving ADER-DG scheme.&quot; <i>Applied Mathematics and Computation</i>, 440:127644, 2023. doi:10.1016/j.amc.2022.127644.'
 pdf: /files/publications/Gaburro2022ADERrelaxation.pdf
+bib: /files/publications/bib/gaburro2022high.bib
 ---
 This is a work in collaboration with [Elena Gaburro](http://elenagaburro.it/), [Philipp Öffner](https://philippoeffner.de/) and [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/).
 

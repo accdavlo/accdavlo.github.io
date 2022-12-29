@@ -8,6 +8,7 @@ venue: 'SIAM Journal on Scientific Computing'
 paperurl: 'https://doi.org/10.1137/19M128973X'
 citation: 'R. Abgrall, and D. Torlo. (2020). &quot;High Order Asymptotic Preserving Deferred Correction Implicit-Explicit Schemes for Kinetic Models.&quot; <i>SIAM Journal on Scientific Computing</i>, 42(3): B816--B845.'
 pdf: /files/publications/RD_IMEX_DeC.pdf
+bib: /files/publications/bib/abgrall2020high.bib
 ---
 This is a work in collaboration with [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882).
 

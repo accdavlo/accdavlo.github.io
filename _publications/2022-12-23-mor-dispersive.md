@@ -8,6 +8,7 @@ venue: 'Mathematics and Computers in Simulation'
 paperurl: 'https://doi.org/10.1016/j.matcom.2022.10.034'
 citation: 'D. Torlo and M. Ricchiuto. &quot;Model order reduction strategies for weakly dispersive waves. &quot; <i>Mathematics and Computers in Simulation</i>, (205), pages 997-1028, 2023.'
 pdf: /files/publications/Torlo2021mor-dispersive-waves-1D.pdf
+bib: /files/publications/bib/torlo2021model.bib
 ---
 This is a work in collaboration with Mario Ricchiuto.
 
