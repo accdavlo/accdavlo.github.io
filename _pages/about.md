@@ -27,7 +27,7 @@ Many physical models are described by equations whose solutions verify certain p
 These problems have a very slow decay of the Kolmogorov n-width. Hence, specific techniques must be used to obatain computational reduction. Ingredients that I retain fundamental in this topic are: 
  * an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration, see [the preprint](/publication/2020-03-30-MOR-AD-ALE_1D)
 ![Eulerian](/images/research/ALEMOREulerian.png)![Lagrangian](/images/research/ALEMORLagrangian.png)
- * nonlinear strategies including neural networks to tackle the problem, we are studying it now for [Talk on Friedrichs' Systems](/talks/2022-09-22-friedrichs) 
+ * nonlinear strategies including neural networks to tackle the problem, we are studying it now for [Friedrichs' Systems (talk)](/talks/2022-09-22-friedrichs) 
 
 Other more classical ROM have been used for [dispersive wave equations](/publication/2021-12-23-mor-dispersive), in [UQ context](/publication/2019-03-01-model-UQ), for [advection-dominated problems](/publication/2018-10-25-stabilized-weighted) or for [domain decomposition](/publication/2022-11-30-optimization-domain-decomposition).
 ![Advection Dominated](/images/research/MORadvDom.gif)
@@ -40,4 +40,5 @@ Arbitrarily high order methods allow to obtain very accurate solutions within mi
  * For stabilized Finite Element methods in [one dimension](/publication/2021-03-31-dispersion-analysis) and in [two dimensions on triangular meshes](/publication/2022-06-14-dispersion-analysis-triangular) we are studying highly accurate space and time discretization for hyperbolic problems. We use different time integrators, space discretizations and stabilization techniques. The goal is to find the stability regions and the best perfomant scheme. 
 ![Dispersion analysis](/images/research/dispersionAnalysis.png)
  * Implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [IMEX DeC on residual distribution schemes](/publication/2020-06-29-high-order-IMEX-DeC) and [IMEX DeC on finite difference schemes](/publication/2022-01-28-lattice-boltzmann)
+
 ![Shu Osher test](/images/research/kineticEuler.png)
