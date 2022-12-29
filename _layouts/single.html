@@ -72,10 +72,6 @@ layout: default
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
-
-    {% if page.bib  %}
-          <p>Download the <a href="{{ page.bib }}"><u>{{ BibTex citation }}</u></a></p>
-    {% endif %}
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}

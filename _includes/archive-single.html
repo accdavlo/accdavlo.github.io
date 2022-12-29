@@ -60,5 +60,8 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if page.bib  %}
+          <p>Download the <a href="{{ page.bib }}"><u>{{ BibTex citation }}</u></a></p>
+    {% endif %}
   </article>
 </div>
