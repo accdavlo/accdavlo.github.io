@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-31-dispersion-analysis
 excerpt: 'In this paper, we study different high order FEM methods for hyperbolic problems, providing parameters that lead to stable and reliable schemes. [Download paper](/files/publications/Michel2021Spectral.pdf)'
 date: 2021-03-31
-venue: 'arXiv'
+venue: 'Journal of Scientific Computing'
 paperurl: 'https://doi.org/10.1007/s10915-021-01632-7'
 citation: 'Michel, S., Torlo, D., Ricchiuto, M. and Abgrall, R.. Spectral Analysis of Continuous FEM for Hyperbolic PDEs: Influence of Approximation, Stabilization, and Time-Stepping. J Sci Comput 89, 31 (2021). https://doi.org/10.1007/s10915-021-01632-7'
 pdf: /files/publications/Michel2021Spectral.pdf
