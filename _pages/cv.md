@@ -90,9 +90,9 @@ Reviewer
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ol reversed>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 
 Service and leadership
