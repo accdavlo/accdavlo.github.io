@@ -2,10 +2,13 @@
 title: "Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes"
 collection: publications
 permalink: /publication/2021-06-15-relaxation-dec
-excerpt: 'In this paper, we study different high order FEM methods for hyperbolic problems, providing parameters that lead to stable and reliable schemes. [Download paper](/files/publications/Abgrall2021RelaxationDeC.pdf)'
+excerpt: 'In this paper, we study different high order FEM methods for hyperbolic problems, providing parameters that lead to stable and reliable schemes.'
 date: 2021-06-15
 venue: 'The SMAI Journal of computational mathematics'
 paperurl: 'https://doi.org/10.5802/smai-jcm.82'
+doi: 'https://doi.org/10.5802/smai-jcm.82'
+arxiv: 'https://arxiv.org/abs/2106.05005'
+gitcode: 'https://git.math.uzh.ch/abgrall_group/relaxation-dec-code'
 citation: 'R. Abgrall, E. Le Mélédo, P. Öffner and D. Torlo. (2022). &quot;Relaxation Deferred Correction Methods and their Applications to Residual Distribution Schemes. &quot;  <i>The SMAI Journal of computational mathematics</i>, Volume 8 (2022), pp. 125-160. doi:10.5802/smai-jcm.82'
 pdf: /files/publications/Abgrall2021RelaxationDeC.pdf
 bib: /files/publications/bib/abgrall2021relaxation.bib
@@ -26,9 +29,3 @@ Convergence of Relaxed DeC         |  Phase space evolution for a pendulum
 ![Error convergence for pendulum test](/images/relaxation-dec/convergence.png)|![Phase space comparison](/images/relaxation-dec/phasePendulum.png)
 
 Moreover, the whole procedure is limited by the necessity of having an *entropy* conservative/dissipative formulation of the spatial discretization, which fulfills the physical behavior of the solutions. We use the [Entropy Fix](https://doi.org/10.1016/j.jcp.2018.06.031) approach by Abgrall, in the context of residual distribution to obtain either entropy conservative or entropy dissipative schemes.
-
-[Paper link](https://doi.org/10.5802/smai-jcm.82)
-
-[Download paper](/files/publications/Abgrall2021RelaxationDeC.pdf)
-
-[Arxiv page](https://arxiv.org/abs/2106.05005)

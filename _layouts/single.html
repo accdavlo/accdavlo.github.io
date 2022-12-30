@@ -54,8 +54,20 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% if page.pdf  %}
+          <a href="{{ page.pdf }}">Download paper</a><br>
+        {% endif %}
+        {% if page.doi  %}
+          <a href="{{ page.doi }}">Journal page</a><br>
+        {% endif %}
+        {% if page.arxiv  %}
+          <a href="{{ page.arxiv }}">arXiv page</a><br>
+        {% endif %}
         {% if page.bib  %}
-          <a href="{{ page.bib }}">BibTeX</a>
+          <a href="{{ page.bib }}">BibTeX</a><br>
+        {% endif %}
+        {% if page.gitcode  %}
+          You can find the code at this <a href="{{ page.gitcode }}">Git repository</a><br>
         {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

@@ -58,10 +58,23 @@
     {% elsif post.citation %}
       Recommended citation: {{ post.citation }} 
     {% elsif post.paperurl %}
-      Download <a href=" {{ post.paperurl }} "><u>here</u></a>
+      <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a>
+    {% endif %}
+    <br>
+    {% if post.pdf  %}
+          <a href="{{ post.pdf }}">PDF</a>
+    {% endif %}
+    {% if post.doi  %}
+          <a href="{{ post.doi }}">DOI</a>
+    {% endif %}
+    {% if post.arxiv  %}
+          <a href="{{ post.arxiv }}">arXiv</a>
     {% endif %}
     {% if post.bib  %}
           <a href="{{ post.bib }}">BibTeX</a>
+    {% endif %}
+    {% if post.gitcode  %}
+          <a href="{{ post.gitcode }}">Git</a>
     {% endif %}
     </p>
   </article>
