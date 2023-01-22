@@ -4,13 +4,14 @@ collection: publications
 permalink: /publication/2022-06-14-dispersion-analysis-triangular
 excerpt: 'In this paper, we study different high order FEM methods for hyperbolic problems, providing parameters that lead to stable and reliable schemes for triangular meshes.'
 date: 2022-06-14
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2206.06150'
+venue: 'Journal of Scientific Computing'
+paperurl: 'https://doi.org/10.1007/s10915-022-02087-0'
 arxiv: 'https://arxiv.org/abs/2206.06150'
-citation: 'Michel, S., Torlo, D., Ricchiuto, M. and Abgrall, R.. Spectral analysis of high order continuous FEM for hyperbolic PDEs on triangular meshes: influence of approximation, stabilization, and time-stepping. arXiv:2206.06150 (2022).'
+citation: 'Michel, S., Torlo, D., Ricchiuto, M. and Abgrall, R.. Spectral analysis of high order continuous FEM for hyperbolic PDEs on triangular meshes: influence of approximation, stabilization, and time-stepping. J Sci Comput 94, 49 (2023).'
 gitcode: 'https://gitlab.inria.fr/simichel/stability-analysis-of-several-fem-methods-in-2d.-results'
 pdf: /files/publications/Michel2022Spectral.pdf
 bib: /files/publications/bib/michel2022spectral.bib
+doi: 'https://doi.org/10.1007/s10915-022-02087-0'
 ---
 This is a work in collaboration with Sixtine Michel, [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/) and [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882).
 
