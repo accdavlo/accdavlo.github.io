@@ -54,9 +54,9 @@ Main Collaborators
 Co-tutoring
 ======
 * Louis Petri (University of Mainz Master student)
-* Gaia Buccino (Polimi Master student)
 * [Pavan Pranjivan Mehta](https://www.pavanpmehta.com/)  (SISSA PhD student)
 * Ivan Prusak (SISSA PhD student)
+* Gaia Buccino (Polimi Master student)
 * Lorenzo Micalizzi (UZH PhD student)
 * Mirco Ciallella (INRIA PhD student)
 * Sixtine Michel (INRIA PhD student)
