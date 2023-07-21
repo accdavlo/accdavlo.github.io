@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2022-05-27-global-flux
 excerpt: 'We introduce arbitrary high order WENO finite volume schemes with global fluxes. The global flux includes the integral of the source term, so that it is natural to balance the moving equilibria for this kind of schemes. We show for shallow water equations with bathymetry that we can exactly preserve the discharge for moving steady states. Morover, we can apply a correction to be also well-balanced with respect to the lake at rest steady state.'
 date: 2022-05-27
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2205.13315'
+venue: 'Journal of Scientific Computing'
+paperurl: 'https://doi.org/10.1007/s10915-023-02280-9'
 arxiv: 'https://arxiv.org/abs/2205.13315'
-citation: 'M. Ciallella, D. Torlo and M. Ricchiuto. (2022). &quot;Arbitrary High Order WENO Finite Volume Scheme with Flux Globalization for Moving Equilibria Preservation. &quot; <i>arXiv preprint</i>, 2022. https://arxiv.org/abs/2205.13315.'
+doi: 'https://doi.org/10.1007/s10915-023-02280-9'
+citation: 'M. Ciallella, D. Torlo and M. Ricchiuto. (2022). &quot;Arbitrary High Order WENO Finite Volume Scheme with Flux Globalization for Moving Equilibria Preservation. &quot; <i>Journal of Scientific Computing</i> 96, 53 (2023). https://doi.org/10.1007/s10915-023-02280-9.'
 pdf: /files/publications/Ciallella2022globalFlux.pdf
-bib: /files/publications/bib/ciallella2022global.bib
+bib: /files/publications/bib/ciallella2023global.bib
 ---
 This is a work in collaboration with Mirco Ciallella and Mario Ricchiuto.
 
