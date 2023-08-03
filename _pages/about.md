@@ -20,14 +20,15 @@ Many physical models are described by equations whose solutions verify certain p
  * **positivity** of the solution for example with modified Patankar (mP) schemes, starting from [mPDeC schemes](/publication/2020-07-01-mPDeC), studies on their [Issues](/publication/2021-08-18-stability-patankar) and with applications for [Shallow Water equations](/publication/2021-10-27-sw-mpdec)
 ![Island simulation](/images/research/sw_mPDeC_island.gif)
  * **entropy** preserving/diffusing schemes, to find the physically relevant solution, see the [relaxation DeC](/publication/2021-06-15-relaxation-dec) and [relaxation ADER-DG](/publication/2022-06-09-relaxation-ader.md) approaches
- * **well-balancing** some particular solutions as lake at rest states for shallow water in [MPDeC for SW](/publication/2021-10-27-sw-mpdec), [global flux Finite Volume](/publication/2022-05-27-global-flux) methods for shallow water or schemes to preserve the soliton behavior for dispersive waves equations.
+ * **well-balancing** some particular solutions as lake at rest states for shallow water in [MPDeC for SW](/publication/2021-10-27-sw-mpdec), [global flux Finite Volume](/publication/2022-05-27-global-flux) methods for shallow water, schemes to preserve the soliton behavior for dispersive waves equations or the divergence-free character.
 ![Island simulation](/images/research/twoWaves_GF_dispersive.gif)
 
 ## Reduced order models for advection dominated problems
 These problems have a very slow decay of the Kolmogorov n-width. Hence, specific techniques must be used to obatain computational reduction. Ingredients that I retain fundamental in this topic are: 
- * an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration, see [the preprint](/publication/2020-03-30-MOR-AD-ALE_1D)
+ * an arbitrary-Lagrangian-Eulerian formulation, a geometrical calibration of the solutions, an optimization technique and a forecast of such calibration, see [the preprint](/publication/2020-03-30-MOR-AD-ALE_1D), now working on extending the process on multiple shocks and speeds
+
 ![Eulerian](/images/research/ALEMOREulerian.png)![Lagrangian](/images/research/ALEMORLagrangian.png)
- * nonlinear strategies including neural networks to tackle the problem, we are studying it now for [Friedrichs' Systems (talk)](/talks/2022-09-22-friedrichs) 
+ * nonlinear strategies including neural networks to tackle the problem, we are studying it now for [Friedrichs' Systems (talk)](/talks/2022-09-22-friedrichs) with Graph Neural Network to tackle the slow Kolmogorov n-width decay
 
 Other more classical ROM have been used for [dispersive wave equations](/publication/2021-12-23-mor-dispersive), in [UQ context](/publication/2019-03-01-model-UQ), for [advection-dominated problems](/publication/2018-10-25-stabilized-weighted) or for [domain decomposition](/publication/2022-11-30-optimization-domain-decomposition).
 ![Advection Dominated](/images/research/MORadvDom.gif)
