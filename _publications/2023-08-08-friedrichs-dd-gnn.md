@@ -1,13 +1,13 @@
 ---
-title: "An optimisation-based domain-decomposition reduced order model for parameter-dependent non-stationary fluid dynamics problems"
+title: "Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions"
 collection: publications
 permalink: /publication/2023-08-08-friedrichs-dd-gnn
-excerpt: 'Friedrichs' systems unify various elliptic, parabolic and hyperbolic semi-linear PDEs. We use a discontinuous Galerkin discretization to approximate such equations and we apply classical model order reduction techniques for parameterized problems. To tackle the slow Kolmogorov n-width that they show, we adopt two techniques. First, we use a domain decomposition based on different indicators, that allow to reduce the number of basis on smooth areas. Secondly, inspired by the concept of vanishing viscosity, we adopt a Graph Neural Network that forecasts the solution given some high viscosity solutions for the same parameter obtained with the presented reduction techniques, recalling that for high viscosity we do not observe slow Kolmogorov n-width.'
+excerpt: "Friedrichs' systems unify various elliptic, parabolic and hyperbolic semi-linear PDEs. We use a discontinuous Galerkin discretization to approximate such equations and we apply classical model order reduction techniques for parameterized problems. To tackle the slow Kolmogorov n-width that they show, we adopt two techniques. First, we use a domain decomposition based on different indicators, that allow to reduce the number of basis on smooth areas. Secondly, inspired by the concept of vanishing viscosity, we adopt a Graph Neural Network that forecasts the solution given some high viscosity solutions for the same parameter obtained with the presented reduction techniques, recalling that for high viscosity we do not observe slow Kolmogorov n-width."
 date: 2023-08-08
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2308.03378'
 arxiv: 'https://arxiv.org/abs/2308.03378'
-citation: 'F. Romor, D. Torlo and G. Rozza. &quot;Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions.&quot; (2023) <i>arXiv preprint</i>, arXiv:2308.03378.'
+citation: "F. Romor, D. Torlo and G. Rozza. &quot;Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions.&quot; (2023) <i>arXiv preprint</i>, arXiv:2308.03378."
 pdf: /files/publications/Romor2023Friedrichs.pdf
 bib: /files/publications/bib/romor2023friedrichs.bib
 ---
