@@ -2,7 +2,7 @@
 title: "High order accurate time integration methods"
 collection: teaching
 type: "Doctoral school course"
-permalink: /teaching/2023-high-order-ODE
+permalink: /teaching/2024-high-order-ODE
 venue: "SISSA"
 date: 2024-03-05
 location: "Trieste, Italy"
