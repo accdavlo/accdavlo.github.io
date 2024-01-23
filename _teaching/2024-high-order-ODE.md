@@ -32,15 +32,17 @@ Prerequisites
 * More details on the installation for running the notebooks can be found on the repository [github.com/accdavlo/HighOrderODESolvers](https://github.com/accdavlo/HighOrderODESolvers#readme)
 
 
-Schedule
+Schedule 2024
 ========
- * Tuesday,   March 5,  2023 - 11:00 to 13:00  - Room 131
- * Tuesday,   March 5,  2023 - 14:00 to 16:00  - Room 131
- * Wednesday, March 6,  2023 - 11:00 to 13:00  - Room 131
- * Wednesday, March 6,  2023 - 14:00 to 16:00  - Room 131
- * Thursday,  March 7,  2023 - 14:00 to 16:00  - Room 131
- * Tuesday,   March 12, 2023 - 11:00 to 13:00  - Room 131
- * Tuesday,   March 12, 2023 - 14:00 to 16:00  - Room 131
- * Wednesday, March 13, 2023 - 11:00 to 13:00  - Room 132 !!!
- * Wednesday, March 13, 2023 - 14:00 to 16:00  - Room 131
- * Thursday,  March 14, 2023 - 14:00 to 16:00  - Room 131
+| Day                 | Time            |Room |
+|  :------------      |:--------------- |:--- |
+| Tuesday,   March 5  | 11:00 to 13:00  | 131 |
+| Tuesday,   March 5  | 14:00 to 16:00  | 131 |
+| Wednesday, March 6  | 11:00 to 13:00  | 131 |
+| Wednesday, March 6  | 14:00 to 16:00  | 131 |
+| Thursday,  March 7  | 14:00 to 16:00  | 131 |
+| Tuesday,   March 12 | 11:00 to 13:00  | 131 |
+| Tuesday,   March 12 | 14:00 to 16:00  | 131 |
+| Wednesday, March 13 | 11:00 to 13:00  | **132** |
+| Wednesday, March 13 | 14:00 to 16:00  | 131 |
+| Thursday,  March 14 | 14:00 to 16:00  | 131 |
