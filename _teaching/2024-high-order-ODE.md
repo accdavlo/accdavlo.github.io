@@ -34,13 +34,13 @@ Prerequisites
 
 Schedule
 ========
- * Tuesday,   March 5,  2024 - 11:00 to 13:00  - Room 131
- * Tuesday,   March 5,  2024 - 14:00 to 16:00  - Room 131
- * Wednesday, March 6,  2024 - 11:00 to 13:00  - Room 131
- * Wednesday, March 6,  2024 - 14:00 to 16:00  - Room 131
- * Thursday,  March 7,  2024 - 14:00 to 16:00  - Room 131
  * Tuesday,   March 12, 2024 - 11:00 to 13:00  - Room 131
  * Tuesday,   March 12, 2024 - 14:00 to 16:00  - Room 131
  * Wednesday, March 13, 2024 - 11:00 to 13:00  - Room 132 !!!
  * Wednesday, March 13, 2024 - 14:00 to 16:00  - Room 131
- * Thursday,  March 14, 2024 - 14:00 to 16:00  - Room 131
+ * Thursday,  March 14, 2024 - 14:00 to 18:00  - Room 131
+ * Tuesday,   March 19, 2024 - 11:00 to 13:00  - Room 131
+ * Wednesday, March 20, 2024 - 11:00 to 13:00  - Room 133 !!!
+ * Wednesday, March 20, 2024 - 14:00 to 16:00  - Room 131
+ * Thursday,  March 21, 2024 - 14:00 to 16:00  - Room 131
+
