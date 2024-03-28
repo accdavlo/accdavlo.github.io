@@ -1,14 +1,22 @@
 ---
 permalink: /
 title: "Davide Torlo's Personal Website"
-excerpt: "I am a postdoctoral researcher in Numerical Analysis, passionate about Data and musician in spare time."
+excerpt: "I am an Assistant Professor in Numerical Analysis, focusing on hyperbolic PDEs and model order reduction."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello visitor! I am Davide Torlo, a Postdoctoral Fellow at [SISSA](https://www.sissa.it/) in prof. [Rozza's group](https://people.sissa.it/~grozza/contact/). Previously researcher at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-bordeaux-sud-ouest) in [CARDAMOM](https://team.inria.fr/cardamom/) team, under the supervision of [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/). I earned my PhD at [University of Zurich](https://www.math.uzh.ch/index.php?id=home) under the supervision of [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882). Before, I studied in [SISSA](https://www.sissa.it/) and [University of Trieste](https://www.units.it) for my Master, where I did my thesis with [prof. Gianluigi Rozza](https://people.sissa.it/~grozza/), and at [University of Milan - Bicocca](https://unimib.it) for my Bachelor studies.
+Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/).
+
+### Previous positions:
+ * Postdoctoral Fellow at [SISSA](https://www.sissa.it/) in prof. [Rozza's group](https://people.sissa.it/~grozza/contact/)
+ * Researcher at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-bordeaux-sud-ouest) in [CARDAMOM](https://team.inria.fr/cardamom/) team, under the supervision of [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
+### Education:
+ * PhD student at [University of Zurich](https://www.math.uzh.ch/index.php?id=home) under the supervision of [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
+ * M.Sc. in [SISSA](https://www.sissa.it/) and [University of Trieste](https://www.units.it), thesis with [prof. Gianluigi Rozza](https://people.sissa.it/~grozza/)
+ * B.Sc. at [University of Milan - Bicocca](https://unimib.it)
 
 
 Current research
