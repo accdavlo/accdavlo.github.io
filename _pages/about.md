@@ -13,6 +13,7 @@ Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at 
 ### Previous positions:
  * Postdoctoral Fellow at [SISSA](https://www.sissa.it/) in prof. [Rozza's group](https://people.sissa.it/~grozza/contact/)
  * Researcher at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-bordeaux-sud-ouest) in [CARDAMOM](https://team.inria.fr/cardamom/) team, under the supervision of [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
+ 
 ### Education:
  * PhD student at [University of Zurich](https://www.math.uzh.ch/index.php?id=home) under the supervision of [prof. Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
  * M.Sc. in [SISSA](https://www.sissa.it/) and [University of Trieste](https://www.units.it), thesis with [prof. Gianluigi Rozza](https://people.sissa.it/~grozza/)
