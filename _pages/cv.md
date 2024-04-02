@@ -21,7 +21,9 @@ Education
 
 Work experience
 ======
-* 12/21--now: SISSA Postdoctoral Fellow
+* 3/24--now: Assistant Professor (Ricercatore in Tenure Track)
+  * [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/)
+* 12/21--3/24: SISSA Postdoctoral Fellow
   * [SISSA](https://www.sissa.it): International School of Advanced Studies - Trieste, Italy
   * Project: Model order reduction techniques for advection dominated problems
   * Group of prof. [Gianluigi Rozza](https://people.sissa.it/~grozza/) 
@@ -50,11 +52,20 @@ Main Collaborators
 * [Rémi Abgrall](https://www.math.uzh.ch/index.php?id=people&key1=8882)
 * [Philipp Öffner](https://philippoeffner.de/)
 
+More Collaborators
+======
+* Walter Boscheri
+* Mirco Ciallella
+* [Maria Han Veiga](https://hanveiga.com/)
+* Lorenzo Micalizzi
+* [Monica Nonino](https://www.mat.univie.ac.at/~mnonino/)
+* Ivan Prusak
+
+
 
 Co-tutoring
 ======
 * Louis Petri (University of Mainz Master student)
-* [Pavan Pranjivan Mehta](https://www.pavanpmehta.com/)  (SISSA PhD student)
 * Ivan Prusak (SISSA PhD student)
 * Gaia Buccino (Polimi Master student)
 * Lorenzo Micalizzi (UZH PhD student)
