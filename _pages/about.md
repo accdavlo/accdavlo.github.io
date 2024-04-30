@@ -22,7 +22,7 @@ Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at 
 
 Current research
 ======
-Currently I have a SISSA Mathematical Fellowship and I work in prof. Rozza's group on **Model Order Reduction** for advection dominated problems. I have also various Numerical Analysis projects on hyperbolic PDEs, **structure preserving** methods for ODEs and PDEs and **arbitrarily high order** methods.
+My research interest is mainly focused on numerical methods for **hyperbolic PDEs**. In particular I study methods that are **structure preserving**  and **arbitrarily high order**. I also study **Model Order Reduction** techniques for advection dominated problems and Fluid Structure Interaction problems.
 
 ## Structure preserving methods
 Many physical models are described by equations whose solutions verify certain properties. These physical properties are often of paramount importance and numerical methods should be able to preserve such properties. In the last years, I have developed several methods able of preserving different properties:
