@@ -7,7 +7,7 @@ date: 2024-06-29
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2407.00428'
 arxiv: 'https://arxiv.org/abs/2407.00428'
-citation: 'Barsukow, W., Ricchiuto, M., and Torlo, D. (2024). Structure preserving nodal continuous Finite Elements via Global Flux quadrature. arXiv preprint arXiv:2407.00428.'
+citation: 'Prusak, I., Nonino, M., Torlo, D. and Rozza, G. (2024). A time-adaptive algorithm for pressure dominated flows: a heuristic estimator. arXiv preprint arXiv:2407.00428.'
 pdf: /files/publications/prusak2024timeadaptive.pdf
 bib: /files/publications/bib/prusak2024timeadaptive.bib
 ---
