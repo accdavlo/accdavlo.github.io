@@ -14,9 +14,6 @@ jobs:
     
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
         with:
@@ -38,7 +35,8 @@ jobs:
           git config --global user.email "davidetorlo@gmail.com"
           git add scripts/covid/ospedalizzati.png
           git commit -m "updating covid plot"
-          git push          
-        env:
-          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-          username: github-actions
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
