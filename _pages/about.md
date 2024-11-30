@@ -29,7 +29,7 @@ Many physical models are described by equations whose solutions verify certain p
  * **positivity** of the solution for example with modified Patankar (mP) schemes, starting from [mPDeC schemes](/publication/2020-07-01-mPDeC), studies on their [Issues](/publication/2021-08-18-stability-patankar) and with applications for [Shallow Water equations](/publication/2021-10-27-sw-mpdec)
 ![Island simulation](/images/research/sw_mPDeC_island.gif)
  * **entropy** preserving/diffusing schemes, to find the physically relevant solution, see the [relaxation DeC](/publication/2021-06-15-relaxation-dec) and [relaxation ADER-DG](/publication/2022-06-09-relaxation-ader.md) approaches
- * **well-balancing** some particular solutions as lake at rest states for shallow water in [MPDeC for SW](/publication/2021-10-27-sw-mpdec), [global flux Finite Volume](/publication/2022-05-27-global-flux) methods for shallow water, schemes to preserve the soliton behavior for dispersive waves equations or the divergence-free character.
+ * **well-balancing** some particular solutions as lake at rest states for shallow water in [MPDeC for SW](/publication/2021-10-27-sw-mpdec), global flux [Finite Volume](/publication/2022-05-27-global-flux) and [Finite Element](/publications/2024-07-15-SUPG-GF) methods for shallow water and similar models, schemes to preserve the soliton behavior for dispersive waves equations or the divergence-free character.
 ![Island simulation](/images/research/twoWaves_GF_dispersive.gif)
 
 ## Reduced order models for advection dominated problems
