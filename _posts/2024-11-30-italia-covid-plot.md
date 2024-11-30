@@ -15,4 +15,4 @@ The y-axis is in logarithmic scale. Data is taken from the [github repository of
 
 ![Italy Covid Data](/scripts/covid/ospedalizzati.png)
 
-The script to obtain this plot I used [this script](/scripts/covid/testPlot.py) whose Colab version is available [here](https://colab.research.google.com/drive/1-OhY-J5-i9kklhlDXuyhO6duwjfrcq1v?usp=sharing).
+To obtain this plot I used [this script](/scripts/covid/testPlot.py), whose Colab version is available [here](https://colab.research.google.com/drive/1-OhY-J5-i9kklhlDXuyhO6duwjfrcq1v?usp=sharing).
