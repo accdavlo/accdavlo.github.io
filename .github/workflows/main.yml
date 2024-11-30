@@ -35,6 +35,9 @@ jobs:
         run: |
           git config --global user.name "accdavlo"
           git config --global user.email "davidetorlo@gmail.com"
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
     
           git add scripts/covid/ospedalizzati.png
           git commit -m "updating covid plot"
