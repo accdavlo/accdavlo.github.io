@@ -3,7 +3,7 @@ name: Python Scheduled Script
 
 on:
   schedule:
-  - cron: "19 * * * 6"
+  - cron: "26 * * * 6"
 
 
 jobs:
