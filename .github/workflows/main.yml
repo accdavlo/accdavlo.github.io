@@ -14,6 +14,9 @@ jobs:
     
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: switching from HTTPS to SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
         with:
