@@ -1,0 +1,42 @@
+
+name: Python Scheduled Script
+
+on:
+  schedule:
+  - cron: '0 17,18,19,20,21,22,23 * * 5'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+      - name: Set Timezone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Istanbul"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pandas datetime matplotlib
+      - name: Plot covid data
+        run: |
+          (cd scripts/covid; python testPlot.py)
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "accdavlo"
+          git config --global user.email "davidetorlo@gmail.com"
+          git add scripts/covid/ospedalizzati.png
+          git commit -m "updating covid plot"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
