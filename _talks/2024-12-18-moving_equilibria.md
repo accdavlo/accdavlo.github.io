@@ -15,7 +15,7 @@ Many conservation and balance laws feature families of moving steady states that
 [2] Ciallella, M., Micalizzi, L., Michel-Dansac, V., Öffner, P., & Torlo, D. (2024) [post](/publications/2024-02-19-mPDeC-moving-equilibria)\
 [3] Ciallella, M., Torlo, D., & Ricchiuto, M. (2023) [post](/publications/2022-05-27-global-flux)\
 [4] Chertock, A., Kurganov, A., Liu, X., Liu, Y., & Wu, T. (2022)\
-[5] Barsukow, W., Ricchiuto, M., & Torlo, D. (2024) [post](/publications/2024-07-15-SUPG-GF)\
+[5] Barsukow, W., Ricchiuto, M., & Torlo, D. (2024) [post](/publications/2024-07-15-SUPG-GF)
 
 [Slides](/files/talks/torlo_ferrara24.pdf)
 
