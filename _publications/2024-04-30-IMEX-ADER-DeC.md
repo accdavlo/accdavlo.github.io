@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-30-IMEX-ADER-DeC
 excerpt: 'We study the implicit and IMEX version of DeC and ADER time integration method with application to advection-diffusion and advection-dispersion equations. The study is based on stability analysis.'
 date: 2024-04-30
-venue: 'ArXiv'
+venue: 'Applied Numerical Mathematics'
 paperurl: 'https://doi.org/10.1016/j.apnum.2024.12.013'
 doi: '10.1016/j.apnum.2024.12.013'
 arxiv: 'https://arxiv.org/abs/2404.18626'
