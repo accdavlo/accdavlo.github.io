@@ -6,7 +6,7 @@ excerpt: "We combine the modified Patankar Deferred Correction approach for the 
 date: 2024-02-19
 venue: 'International Journal on Geomathematics'
 paperurl: 'https://doi.org/10.1007/s13137-025-00262-7'
-doi: '10.1007/s13137-025-00262-7'
+doi: 'https://doi.org/10.1007/s13137-025-00262-7'
 arxiv: 'https://arxiv.org/abs/2402.12248'
 citation: "M. Ciallella, L. Micalizzi, V. Michel-Dansac, P. Offner and D. Torlo. &quot;A high-order, fully well-balanced, unconditionally positivity-preserving finite volume framework for flood simulations.&quot; Int J Geomath 16, 6 (2025). https://doi.org/10.1007/s13137-025-00262-7."
 pdf: /files/publications/ciallella2025highorderSW_GEM.pdf

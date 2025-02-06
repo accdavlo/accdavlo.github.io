@@ -6,7 +6,7 @@ excerpt: 'We study the implicit and IMEX version of DeC and ADER time integratio
 date: 2024-04-30
 venue: 'Applied Numerical Mathematics'
 paperurl: 'https://doi.org/10.1016/j.apnum.2024.12.013'
-doi: '10.1016/j.apnum.2024.12.013'
+doi: 'https://doi.org/10.1016/j.apnum.2024.12.013'
 arxiv: 'https://arxiv.org/abs/2404.18626'
 citation: 'Öffner, P., Petri, L., and Torlo, D. (2025). Analysis for Implicit and Implicit-Explicit ADER and DeC Methods for Ordinary Differential Equations, Advection-Diffusion and Advection-Dispersion Equations. Applied Numerical Mathematics, 212, p. 110-134.'
 pdf: /files/publications/oeffner2025analysis_APNUM.pdf
