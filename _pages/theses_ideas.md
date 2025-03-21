@@ -21,5 +21,17 @@ Ideas for Master Theses
    * NN adattive per ROM
    * usare metodi un po' più classici cercando di preservare equilibri delle equazioni
    * preservare le disuguaglianze di entropia 
+   
+   
+Ideas for Bachelor Theses
+=====
+* ODE (vedi anche [corso su metodi alto ordine per ODE](https://github.com/accdavlo/HighOrderODESolvers)
+   1. Metodi Modified Patankar: sono variazioni linearmente implicite di metodi espliciti (sia RK che multistep), dove si preserva la positività della quantità d'interesse. Possiamo studiarne delle versioni ad alto ordine, la loro stabilità o concentrarci su applicazioni più complesse.
+   2. Metodi predictor-corrector di ordine arbitrariamente alto: possiamo vederne alcuni nella loro versione implicita (lineare), studiarne la stabilità e confrontarli con dei RK impliciti classici con Newton implicito come risolutore e vedere chi è più veloce.
+   3. Metodi di rilassamento per conservare l'entropia globale del sistema. Son dei metodi che cambiano leggermente il timestep alla fine del metodo stesso, ottenendo così la conservazione a livello numerico di una quantità conservata del sistema, per esempio l'energia totale in Newton. Possiamo vedere come si derivano, la dimostrazione che l'ordine si mantiene e che preservano la quantità che stiamo cercando.
+   
+
+* PDE
+   1. Applicare il rilassamento dell'entropia a problemi iperbolici che conservano l'entropia (o che la dissipano), e.g. Burgers con flusso numerico di Tadmor.
 
 
