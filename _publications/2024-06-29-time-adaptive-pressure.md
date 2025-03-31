@@ -4,10 +4,11 @@ collection: publications
 permalink: /publication/2024-06-29-time-adaptive-pressure
 excerpt: 'We compare some time-adaptive algorithms based on error estimators that use variations of BDF2 and BDF3 time marching schemes, for Navier-Stokes and FSI problems with pressure dominated flows.'
 date: 2024-06-29
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/abs/2407.00428'
+venue: 'Computational Mechanics and Applied Mathematics: Perspectives from Young Scholars'
+paperurl: 'https://dx.doi.org/10.1007/978-3-031-76591-9_24'
 arxiv: 'https://arxiv.org/abs/2407.00428'
-citation: 'Prusak, I., Torlo, D., Nonino, M. and Rozza, G. (2024). A time-adaptive algorithm for pressure dominated flows: a heuristic estimator. arXiv preprint arXiv:2407.00428.'
+doi: 'https://dx.doi.org/10.1007/978-3-031-76591-9_24'
+citation: 'Prusak, I., Torlo, D., Nonino, M., Rozza, G. (2025). A Time-Adaptive Algorithm for Pressure Dominated Flows: A Heuristic Estimator. In: Marmo, F., Cuomo, S., Cutolo, A. (eds) Computational Mechanics and Applied Mathematics: Perspectives from Young Scholars. GIMC SIMAI Young 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-76591-9_24'
 pdf: /files/publications/prusak2024timeadaptive.pdf
 bib: /files/publications/bib/prusak2024timeadaptive.bib
 ---
