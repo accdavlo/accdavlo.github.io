@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2024-02-19-mPDeC-moving-equilibria
 excerpt: "We combine the modified Patankar Deferred Correction approach for the positivity of Shallow Water equations with a hydrostatic reconstruction technique to preserve global equilibria. We focus on tough tests aiming at flooding of urban areas."
 date: 2024-02-19
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2402.12248'
+venue: 'International Journal on Geomathematics'
+paperurl: 'https://doi.org/10.1007/s13137-025-00262-7'
+doi: 'https://doi.org/10.1007/s13137-025-00262-7'
 arxiv: 'https://arxiv.org/abs/2402.12248'
-citation: "M. Ciallella, L. Micalizzi, V. Michel-Dansac, P. Offner and D. Torlo. &quot;A high-order, fully well-balanced, unconditionally positivity-preserving finite volume framework for flood simulations.&quot; (2024) <i>arXiv preprint</i>, arXiv:2402.12248."
-pdf: /files/publications/Ciallella2024HighOrder.pdf
-bib: /files/publications/bib/Ciallella2024HighOrder.bib
+citation: "M. Ciallella, L. Micalizzi, V. Michel-Dansac, P. Offner and D. Torlo. &quot;A high-order, fully well-balanced, unconditionally positivity-preserving finite volume framework for flood simulations.&quot; Int J Geomath 16, 6 (2025). https://doi.org/10.1007/s13137-025-00262-7."
+pdf: /files/publications/ciallella2025highorderSW_GEM.pdf
+bib: /files/publications/bib/Ciallella2025HighOrder.bib
 ---
 In this work, we present a high-order finite volume framework for the numerical
 simulation of shallow water flows. The method is designed to accurately capture complex dynamics inherent in shallow water systems, particularly suited for
