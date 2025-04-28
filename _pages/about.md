@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/). I am in the [Numerical Analysis and Scientific Computing Research Group](https://sites.google.com/uniroma1.it/an-sc-research-group/home) of the department.
+Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/). I am in the [Numerical Analysis and Scientific Computing Research Group](https://sites.google.com/uniroma1.it/an-sc-research-group/home) of the department. We organize the [MDN Seminars ("Modellistica Differenziale Numerica")](https://sites.google.com/uniroma1.it/an-sc-research-group/group-seminar) on Thursday at 12.30.
 
 ### Previous positions:
  * Postdoctoral Fellow at [SISSA](https://www.sissa.it/) in prof. [Rozza's group](https://people.sissa.it/~grozza/contact/)
