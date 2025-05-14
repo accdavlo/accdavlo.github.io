@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2024-02-15-optimization-ROM-FOM-comparison
 excerpt: "In the context of domain decomposition optimization based models, we compare different couplings of full and reduced order models of each subcomponent."
 date: 2024-02-15
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2402.10570'
+venue: 'Numerical Mathematics and Advanced Applications ENUMATH 2023'
+paperurl: 'https://doi.org/10.1007/978-3-031-86169-7_28'
+doi: 'https://doi.org/10.1007/978-3-031-86169-7_28'
 arxiv: 'https://arxiv.org/abs/2402.10570'
-citation: "I. Prusak, D. Torlo, M. Nonino and G. Rozza. &quot;Optimisation–Based Coupling of Finite Element Model and Reduced Order Model for Computational Fluid Dynamics.&quot; (2024) <i>arXiv preprint</i>, arXiv:2402.10570."
+citation: "Prusak, I., Torlo, D., Nonino, M., Rozza, G. (2025). Optimisation–Based Coupling of Finite Element Model and Reduced Order Model for Computational Fluid Dynamics. In: Sequeira, A., Silvestre, A., Valtchev, S.S., Janela, J. (eds) Numerical Mathematics and Advanced Applications ENUMATH 2023, Volume 2. ENUMATH 2023. Lecture Notes in Computational Science and Engineering, vol 154. Springer, Cham. https://doi.org/10.1007/978-3-031-86169-7_28."
 pdf: /files/publications/prusak2024optimizationbased.pdf
-bib: /files/publications/bib/prusak2024optimizationbased.bib
+bib: /files/publications/bib/prusak2025optimisation_FEM_ROM.bib
 ---
 With the increased interest in complex problems, such as multiphysics
 and multiscale models, as well as real–time computations, there is a strong need
