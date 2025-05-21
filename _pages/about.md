@@ -10,6 +10,11 @@ redirect_from:
 
 Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/). I am in the [Numerical Analysis and Scientific Computing Research Group](https://sites.google.com/uniroma1.it/an-sc-research-group/home) of the department. We organize the [MDN Seminars ("Modellistica Differenziale Numerica")](https://sites.google.com/uniroma1.it/an-sc-research-group/group-seminar) on Thursday at 12.30.
 
+## Events organization
+* Summer school in Rome,  15th-19th  September 2025, "Numerical methods for high-dimensional data". Lecturers: Burno Despres, Michael Herty, George Karniadakis. Free registration. [Website](https://sites.google.com/uniroma1.it/numerics-high-dimensional-data/home) 
+* Workshop on "Optimal Control and Agent Systems" in Rome, 22nd-25th September 2025. [Website](https://sites.google.com/uniroma1.it/optimalcontrolagentsystem/home)
+
+
 ### Previous positions:
  * Postdoctoral Fellow at [SISSA](https://www.sissa.it/) in prof. [Rozza's group](https://people.sissa.it/~grozza/contact/)
  * Researcher at [INRIA Bordeaux](https://www.inria.fr/fr/centre-inria-bordeaux-sud-ouest) in [CARDAMOM](https://team.inria.fr/cardamom/) team, under the supervision of [prof. Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto/)
@@ -52,3 +57,7 @@ Arbitrarily high order methods allow to obtain very accurate solutions within mi
  * Implicit--explicit discretization for kinetic models with arbitrary high order accuracy, through the Deferred Correction as time integration scheme and Residual distribution for the spatial discretization. [IMEX DeC on residual distribution schemes](/publication/2020-06-29-high-order-IMEX-DeC) and [IMEX DeC on finite difference schemes](/publication/2022-01-28-lattice-boltzmann)
 
 ![Shu Osher test](/images/research/kineticEuler.png)
+
+
+## Past events
+* Scientific Machine Learning: Emerging topics. Trieste, 15-18 June 2024. [Website](https://indico.sissa.it/event/107/overview)
