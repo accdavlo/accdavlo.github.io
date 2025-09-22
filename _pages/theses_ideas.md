@@ -30,7 +30,9 @@ Ideas for Bachelor Theses
    2. Metodi predictor-corrector di ordine arbitrariamente alto: possiamo vederne alcuni nella loro versione implicita (lineare), studiarne la stabilità e confrontarli con dei RK impliciti classici con Newton implicito come risolutore e vedere chi è più veloce. [lezione](https://github.com/accdavlo/HighOrderODESolvers/blob/master/Chapter%205%20DeC%20and%20ADER.ipynb)
    3. Metodi di rilassamento per conservare l'entropia globale del sistema. Son dei metodi che cambiano leggermente il timestep alla fine del metodo stesso, ottenendo così la conservazione a livello numerico di una quantità conservata del sistema, per esempio l'energia totale in Newton. Possiamo vedere come si derivano, la dimostrazione che l'ordine si mantiene e che preservano la quantità che stiamo cercando. [lezione](https://github.com/accdavlo/HighOrderODESolvers/blob/master/Chapter%204%20Relaxation%20Runge--Kutta.ipynb)
    4. Derivazione delle condizioni d'ordine d'accuratezza per metodi di Runge-Kutta con la teoria degli alberi [libro Butcher](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119121534)
-   
+   5. Variational Physics Informed Neural Networks: fissare $N$ test function da usare nella formulazione del residuo con un a formulazione debole, quindi nella loss minimizzare la somma dei residui testati contro ciascuna test function al quadrato.
+   6. Self-adaptive Physics Informed Neural Networks: PINN dove i pesi che bilanciano IC, BC e residuo sono a loro volta delle NN che vengono allenate per massimizare la loss, così che diano più peso a ciò che non è ben ottimizato. [article](https://arxiv.org/abs/2009.04544)
+
 
 * **PDE**
    1. Applicare il rilassamento dell'entropia a problemi iperbolici che conservano l'entropia (o che la dissipano), e.g. Burgers con flusso numerico di Tadmor.
