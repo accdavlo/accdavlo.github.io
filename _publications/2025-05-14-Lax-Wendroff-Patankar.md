@@ -4,10 +4,11 @@ collection: publications
 permalink: /publication/2025-05-14-Lax-Wendroff-Patankar
 excerpt: 'We generalize the Lax-Wendroff theorem for Patankar-type schemes.'
 date: 2025-05-14
-venue: 'ArXiv'
-paperurl: 'https://arxiv.org/pdf/2505.08387'
+venue: 'Computers and Fluids'
+paperurl: 'https://doi.org/10.1016/j.compfluid.2025.106885'
+doi: 'https://doi.org/10.1016/j.compfluid.2025.106885'
 arxiv: 'https://arxiv.org/pdf/2505.08387'
-citation: 'Bender, J., Izgin, T., Offner, Ph. and Torlo, D. (2025), The Lax–Wendroff theorem for Patankar-type methods applied to hyperbolic conservation laws. ArXiv preprint:2505.08387.'
+citation: 'Bender, J., Izgin, T., Offner, Ph. and Torlo, D. (2025), The Lax–Wendroff theorem for Patankar-type methods applied to hyperbolic conservation laws. Computers and Fluids, 2505.'
 pdf: /files/publications/bender2025Lax_Wendroff.pdf
 bib: /files/publications/bib/bender2025Lax_Wendroff.bib
 ---
