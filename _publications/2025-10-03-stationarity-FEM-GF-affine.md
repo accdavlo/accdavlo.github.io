@@ -1,13 +1,13 @@
 ---
-title: "The Lax–Wendroff theorem for Patankar-type methods applied to hyperbolic conservation laws"
+title: "Stationarity preserving nodal Finite Element methods for multi-dimensional linear hyperbolic balance laws via a Global Flux quadrature formulation"
 collection: publications
 permalink: /publication/2025-10-03-stationarity-FEM-GF-affine
-excerpt: 'We generalize the Lax-Wendroff theorem for Patankar-type schemes.'
+excerpt: 'We extend the finite element global flux to a vast set of linear problems with source terms that have numerous nontrivial equilibria. The method is able to preserve an accurate approximation of the steady states with a super-convergent behavior.'
 date: 2025-10-03
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2505.08387'
 arxiv: 'https://arxiv.org/pdf/2505.08387'
-citation: 'Bender, J., Izgin, T., Offner, Ph. and Torlo, D. (2025), The Lax–Wendroff theorem for Patankar-type methods applied to hyperbolic conservation laws. Computers and Fluids, 2505.'
+citation: 'Barsukow, W. and Ricchiuto, M. and Torlo, D. (2025), Stationarity preserving nodal Finite Element methods for multi-dimensional linear hyperbolic balance laws via a Global Flux quadrature formulation, arXiv:2505.08387.'
 pdf: /files/publications/barsukow2025stationarity.pdf
 bib: /files/publications/bib/barsukow2025stationarity_FEM_GF_affine.bib
 ---
