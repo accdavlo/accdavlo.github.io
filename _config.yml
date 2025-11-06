@@ -87,7 +87,7 @@ author:
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=OFfJgFwAAAAJ&hl=it"
-  email            :  "davidetorlo@gmail.com"
+  email            :  "davide.torlo@uniroma1.it"
   researchgate     :  "https://www.researchgate.net/profile/Davide_Torlo"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   # inriaGitlab      : "dtorlo1"
   google_plus      :
   keybase          :
-  instagram        : "accdavlo"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "accdavlo"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
