@@ -34,5 +34,8 @@ Ideas for Bachelor Theses
    1. Variational Physics Informed Neural Networks: fissare $N$ test function da usare nella formulazione del residuo con un a formulazione debole, quindi nella loss minimizzare la somma dei residui testati contro ciascuna test function al quadrato.
    1. Self-adaptive Physics Informed Neural Networks: PINN dove i pesi che bilanciano IC, BC e residuo sono a loro volta delle NN che vengono allenate per massimizare la loss, così che diano più peso a ciò che non è ben ottimizato. [article](https://arxiv.org/abs/2009.04544)
    1. Applicare il rilassamento dell'entropia a problemi iperbolici che conservano l'entropia (o che la dissipano), e.g. Burgers con flusso numerico di Tadmor.
+   1. Discontinuous Galerkin per conservation laws (traffico, Burgers, acque basse): teoria, convergenza, analisi e implementazione.
+   1. Le equazioni di Navier-Stokes: formulazione, problemi di punto-sella, stabilizzazione, approssimazione con elementi finiti.
+   1. Decomposizione del dominio e schemi iterativi per la convergenza del solutore.
 
 
