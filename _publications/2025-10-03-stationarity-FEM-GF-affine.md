@@ -5,9 +5,9 @@ permalink: /publication/2025-10-03-stationarity-FEM-GF-affine
 excerpt: 'We extend the finite element global flux to a vast set of linear problems with source terms that have numerous nontrivial equilibria. The method is able to preserve an accurate approximation of the steady states with a super-convergent behavior.'
 date: 2025-10-03
 venue: 'ArXiv'
-paperurl: 'https://arxiv.org/pdf/2505.08387'
-arxiv: 'https://arxiv.org/pdf/2505.08387'
-citation: 'Barsukow, W. and Ricchiuto, M. and Torlo, D. (2025), Stationarity preserving nodal Finite Element methods for multi-dimensional linear hyperbolic balance laws via a Global Flux quadrature formulation, arXiv:2505.08387.'
+paperurl: 'https://arxiv.org/pdf/2510.02928'
+arxiv: 'https://arxiv.org/pdf/2510.02928'
+citation: 'Barsukow, W. and Ricchiuto, M. and Torlo, D. (2025), Stationarity preserving nodal Finite Element methods for multi-dimensional linear hyperbolic balance laws via a Global Flux quadrature formulation, arXiv:2510.02928.'
 pdf: /files/publications/barsukow2025stationarity.pdf
 bib: /files/publications/bib/barsukow2025stationarity_FEM_GF_affine.bib
 ---
