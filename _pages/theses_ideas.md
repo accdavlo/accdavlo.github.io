@@ -21,6 +21,11 @@ Ideas for Master Theses
    2. NN adattive per ROM
    3. usare metodi un po' più classici cercando di preservare equilibri delle equazioni
    4. preservare le disuguaglianze di entropia 
+
+* **High order multiscale method for fluid dynamics**
+   1. Relaxation
+   2. Splitting method [Semi-implicit relaxed finite volume schemes for hyperbolic multi-scale systems of conservation laws](https://arxiv.org/abs/2502.15402)
+   3. High order with Deferred Correction (sDeC)
    
    
 Ideas for Bachelor Theses
