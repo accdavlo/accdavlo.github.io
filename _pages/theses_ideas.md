@@ -15,6 +15,10 @@ Ideas for Master Theses
    2. Metodi alto ordine che preservano la positività di quantità che son fisicamente positive (tipo l'altezza della colonna d'acqua) magari in combinazione con la preservazione di qualche equilibrio
    3. Studiare metodi di ordine arbitrariamente alto impliciti efficienti
    4. Metodi DG di ordine arbitrariamente alto per problemi iperbolici con dei limiter adattivi che capiscano quando ci sono shock o simili per abbassare l'ordine
+   5. Draining time method per mantenere la positività di equazioni di shallow water e Euler con metodi di alto ordine Finite Volume WENO 
+
+* **Shifted Boundary Method**
+  1. Usare griglie cartesiane e FV anche quando la geometria non è rettangolare ed estrapolare le informazioni del bordo fisico sulle celle computazionali. 
 
 * **Model order reduction**: sono modelli che permettono di ridurre i costi computazionali per problemi parametrici quando servono tante simulazioni per diversi parametri (per esempio in contesti di Uncertainty Quantification). (vedi [intro a MOR](/posts/2021/02/wMOR/))
    1. Studiare delle rete neurali che facciano da surrogato a metodi numerici
