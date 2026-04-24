@@ -15,6 +15,10 @@ Ideas for Master Theses
    2. Metodi alto ordine che preservano la positività di quantità che son fisicamente positive (tipo l'altezza della colonna d'acqua) magari in combinazione con la preservazione di qualche equilibrio
    3. Studiare metodi di ordine arbitrariamente alto impliciti efficienti
    4. Metodi DG di ordine arbitrariamente alto per problemi iperbolici con dei limiter adattivi che capiscano quando ci sono shock o simili per abbassare l'ordine
+   5. Draining time method per mantenere la positività di equazioni di shallow water e Euler con metodi di alto ordine Finite Volume WENO 
+
+* **Shifted Boundary Method**
+  1. Usare griglie cartesiane e FV anche quando la geometria non è rettangolare ed estrapolare le informazioni del bordo fisico sulle celle computazionali. 
 
 * **Model order reduction**: sono modelli che permettono di ridurre i costi computazionali per problemi parametrici quando servono tante simulazioni per diversi parametri (per esempio in contesti di Uncertainty Quantification). (vedi [intro a MOR](/posts/2021/02/wMOR/))
    1. Studiare delle rete neurali che facciano da surrogato a metodi numerici
@@ -31,6 +35,7 @@ Ideas for Master Theses
 Ideas for Bachelor Theses
 =====
 * **ODE** (vedi anche [corso su metodi alto ordine per ODE](https://github.com/accdavlo/HighOrderODESolvers) )
+   1. Metodi per ODE con timestep complessi [https://arxiv.org/pdf/2601.07730](https://arxiv.org/pdf/2601.07730)
    1. Metodi di rilassamento per conservare l'entropia globale del sistema. Son dei metodi che cambiano leggermente il timestep alla fine del metodo stesso, ottenendo così la conservazione a livello numerico di una quantità conservata del sistema, per esempio l'energia totale in Newton. Possiamo vedere come si derivano, la dimostrazione che l'ordine si mantiene e che preservano la quantità che stiamo cercando. [lezione](https://github.com/accdavlo/HighOrderODESolvers/blob/master/Chapter%204%20Relaxation%20Runge--Kutta.ipynb)
    1. Metodi Modified Patankar: sono variazioni linearmente implicite di metodi espliciti (sia RK che multistep), dove si preserva la positività della quantità d'interesse. Possiamo studiarne delle versioni ad alto ordine, la loro stabilità o concentrarci su applicazioni più complesse. [lezione](https://github.com/accdavlo/HighOrderODESolvers/blob/master/Chapter%206%20Positivity%20preserving%20schemes.ipynb)
    1. Metodi predictor-corrector di ordine arbitrariamente alto: possiamo vederne alcuni nella loro versione implicita (lineare), studiarne la stabilità e confrontarli con dei RK impliciti classici con Newton implicito come risolutore e vedere chi è più veloce. [lezione](https://github.com/accdavlo/HighOrderODESolvers/blob/master/Chapter%205%20DeC%20and%20ADER.ipynb)

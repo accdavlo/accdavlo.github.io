@@ -11,8 +11,7 @@ redirect_from:
 Hello visitor! I am Davide Torlo, an Assistant Professor (RTT, tenure track) at [Università di Roma La Sapienza](https://www.uniroma1.it) at Mathematics Department [Guido Castelnuovo](https://www.mat.uniroma1.it/). I am in the [Numerical Analysis and Scientific Computing Research Group](https://sites.google.com/uniroma1.it/an-sc-research-group/home) of the department. We organize the [MDN Seminars ("Modellistica Differenziale Numerica")](https://sites.google.com/uniroma1.it/an-sc-research-group/group-seminar) on Thursday at 12.30.
 
 ## Events organization
-* Summer school in Rome,  15th-19th  September 2025, "Numerical methods for high-dimensional data". Lecturers: Burno Despres, Michael Herty, George Karniadakis. Free registration. [Website](https://sites.google.com/uniroma1.it/numerics-high-dimensional-data/home) 
-* Workshop on "Optimal Control and Agent Systems" in Rome, 22nd-25th September 2025. [Website](https://sites.google.com/uniroma1.it/optimalcontrolagentsystem/home)
+* Workshop on "Advances in low rank and model reduction methods for PDEs" in Rome, 11th-13th November 2026. [Website](https://sites.google.com/uniroma1.it/wsmor/home)
 
 
 ### Previous positions:
