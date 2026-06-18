@@ -10,6 +10,9 @@ author_profile: true
 
 Ideas for Master Theses
 ======
+* **Machine Learning and Numerical solvers**
+   1. Fourier Neural Operators in combination with local operators to simulate hyperbolic conservation laws. [Paper by Wang, Shu, Tang](https://arxiv.org/pdf/2606.18221) 
+
 * **Structure preserving methods for hyperbolic models**
    1. Metodi che preservano equilibri di movimento per Shallow Water (se sei più interessato alla modellistica possiamo estendere questa cosa a modelli più complicati: multi-layer, Ripa models, sediment transport, ... 1D o 2D
    2. Metodi alto ordine che preservano la positività di quantità che son fisicamente positive (tipo l'altezza della colonna d'acqua) magari in combinazione con la preservazione di qualche equilibrio
