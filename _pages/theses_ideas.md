@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Possibilities for Master Theses Abroad (and PhDs) (contact me if you are interested in any of these topics)
+======
+* [Wasilij Barsukow](https://www.math.u-bordeaux.fr/~wbarsukow/), CNRS, Université de Bordeaux, France
+   1. Topic: Involution preserving methods for hyperbolic PDEs, Active Flux, Finite Element methods
+   1. Several Master thesis topics [https://www.math.u-bordeaux.fr/~wbarsukow/sujet_AF.pdf](https://www.math.u-bordeaux.fr/~wbarsukow/sujet_AF.pdf)
+   1. PhD positions and more about the project [https://www.math.u-bordeaux.fr/~wbarsukow/ANR-HoCo.html](https://www.math.u-bordeaux.fr/~wbarsukow/ANR-HoCo.html)
+* [Mirco Ciallella](https://sites.google.com/view/mircociallella), University of Paris, France
+   1. Topic: Shifted Boundary Method for Finite Element method for hyperbolic PDEs
+
 
 Ideas for Master Theses
 ======
