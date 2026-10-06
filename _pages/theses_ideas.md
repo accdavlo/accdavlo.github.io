@@ -14,7 +14,8 @@ Possibilities for Master Theses Abroad (and PhDs) (contact me if you are interes
    1. Several Master thesis topics [https://www.math.u-bordeaux.fr/~wbarsukow/sujet_AF.pdf](https://www.math.u-bordeaux.fr/~wbarsukow/sujet_AF.pdf)
    1. PhD positions and more about the project [https://www.math.u-bordeaux.fr/~wbarsukow/ANR-HoCo.html](https://www.math.u-bordeaux.fr/~wbarsukow/ANR-HoCo.html)
 * [Mirco Ciallella](https://sites.google.com/view/mircociallella), University of Paris, France
-   1. Topic: Shifted Boundary Method for Finite Element method for hyperbolic PDEs
+   1. Shifted Boundary Method for Finite Element method for hyperbolic PDEs; hp adaptation for IMEX Shifted Boundary Method [link](https://sites.google.com/view/mircociallella/anrjcjc-phoenics?authuser=0)
+   1. Immersed Boundary Method + structure preserving method with global-flux for equilibria preservation in complex geometries [link](https://sites.google.com/view/mircociallella/anridex-hope?authuser=0)
 
 
 Ideas for Master Theses
