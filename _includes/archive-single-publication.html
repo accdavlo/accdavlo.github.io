@@ -22,7 +22,8 @@
       {% endif %}
       <br>
     {% if post.venue%}<small class="archive__item-excerpt" itemprop="description">{{ post.citation }}
-       {% if post.pdf%} <a href="{{ post.pdf }}">PDF</a>{% endif %} {% if post.doi%} <a href="{{ post.doi }}">DOI</a> {% elsif post.arxiv %} <a href="{{ post.arxiv }}">arXiv</a>{% endif %} {% if post.bib%} <a href="{{ post.bib }}">BibTeX</a>{% endif %} {% if post.gitcode %}<a href="{{ post.gitcode }}">Git</a>{% endif %}  </small>
+       {% if post.pdf%} <a href="{{ post.pdf }}">PDF</a>{% endif %} {% if post.doi%} <a href="{{ post.doi }}">DOI</a> {% elsif post.arxiv %} <a href="{{ post.arxiv }}">arXiv</a>{% endif %} {% if post.bib%} <a href="{{ post.bib }}" class="bib-toggle">BibTeX</a>{% endif %} {% if post.gitcode %}<a href="{{ post.gitcode }}">Git</a>{% endif %}  </small>
+    <div class="bib-slot"></div>
     {% endif %}
     </li>
  </article>

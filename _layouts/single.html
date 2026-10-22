@@ -64,7 +64,8 @@ layout: default
           <a href="{{ page.arxiv }}">arXiv page</a><br>
         {% endif %}
         {% if page.bib  %}
-          <a href="{{ page.bib }}">BibTeX</a><br>
+          <a href="{{ page.bib }}" class="bib-toggle">BibTeX</a><br>
+          <div class="bib-slot"></div>
         {% endif %}
         {% if page.gitcode  %}
           You can find the code at this <a href="{{ page.gitcode }}">Git repository</a><br>
