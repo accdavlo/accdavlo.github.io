@@ -5,9 +5,9 @@ permalink: /publication/2026-02-15-flux-balanced-MP
 excerpt: 'We present a flux-balanced version of Patankar-type schemes for the compressible Euler equations, demonstrating that applying the Patankar-trick only to the density equation while balancing numerical fluxes leads to improved performance and preservation of contact discontinuities.'
 date: 2026-02-15
 venue: 'ArXiv'
-paperurl: 'https://arxiv.org/pdf/2602.09198'
-arxiv: 'https://arxiv.org/pdf/2602.09198'
-citation: 'Izgin, T. and Meister, A.  and Shu, C.W. and Torlo, D. (2026), Flux-Balanced Patankar-type Schemes for the Compressible Euler Equations, arXiv:2602.09198.'
+paperurl: 'https://arxiv.org/pdf/2602.14392'
+arxiv: 'https://arxiv.org/pdf/2602.14392'
+citation: 'Izgin, T. and Meister, A.  and Shu, C.W. and Torlo, D. (2026), Flux-Balanced Patankar-type Schemes for the Compressible Euler Equations, arXiv:2602.14392.'
 pdf: /files/publications/Izgin2026fluxbalanced.pdf
 bib: /files/publications/bib/izgin2026fluxbalanced.bib
 ---

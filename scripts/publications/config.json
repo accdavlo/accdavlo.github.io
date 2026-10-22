@@ -1,0 +1,7 @@
+{
+  "author_surname": "Torlo",
+  "author_initial": "D",
+  "orcid": "0000-0001-5106-1629",
+  "ignore_arxiv": [],
+  "_comment": "ignore_arxiv: arXiv ids (e.g. \"2401.01234\") that must never be added to the website. To stop a post's PDF/metadata from being touched, add `autoupdate: false` to its front matter."
+}
