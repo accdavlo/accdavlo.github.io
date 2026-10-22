@@ -65,6 +65,7 @@ jobs:
           title: New publications
           commit-message: Add new publications from arXiv
           body-path: ${{ runner.temp }}/pr.md
+          assignees: accdavlo   # being assigned triggers an e-mail notification
           add-paths: |
             _publications
             files/publications
