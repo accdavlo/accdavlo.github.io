@@ -1,0 +1,70 @@
+name: Sync publications
+
+# Checks arXiv for new papers / new versions and Crossref + OpenAlex for journal
+# versions.
+#  - Papers already on the website (new arXiv PDF, now published): pushed to master.
+#  - New arXiv papers: (re)opens the pull request "New publications" for review.
+on:
+  schedule:
+    - cron: '23 5 * * 1'   # every Monday at 05:23 UTC (use '23 5 * * *' for daily)
+  workflow_dispatch:
+    inputs:
+      refresh_pdfs:
+        description: 'Re-download the latest arXiv PDF of all preprint posts not yet tracked'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync with arXiv, Crossref and OpenAlex
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          python scripts/publications/sync_publications.py \
+            --report "$RUNNER_TEMP/report.md" \
+            --pr-body "$RUNNER_TEMP/pr.md" \
+            --new-papers "$RUNNER_TEMP/new-papers.txt" \
+            ${{ inputs.refresh_pdfs && '--refresh-pdfs' || '' }}
+          cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Push updates of papers already on the website
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _publications files/publications scripts/publications/state.json
+          # New papers are left out: they go to the pull request below.
+          while read -r f; do git reset -q -- "$f"; done < "$RUNNER_TEMP/new-papers.txt"
+          if git diff --cached --quiet; then
+            echo "No updates to existing papers."
+          else
+            { echo "Automatic update of existing publications"; echo; cat "$RUNNER_TEMP/report.md"; } > "$RUNNER_TEMP/msg.txt"
+            git commit -q -F "$RUNNER_TEMP/msg.txt"
+            git pull -q --rebase
+            git push
+          fi
+
+      - name: Open or update pull request for new papers
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: auto/new-publications
+          delete-branch: true
+          title: New publications
+          commit-message: Add new publications from arXiv
+          body-path: ${{ runner.temp }}/pr.md
+          add-paths: |
+            _publications
+            files/publications
