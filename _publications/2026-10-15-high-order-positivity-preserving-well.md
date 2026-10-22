@@ -2,7 +2,7 @@
 title: "High-order positivity-preserving well-balanced schemes: combining flux globalization with modified Patankar deferred correction methods"
 collection: publications
 permalink: /publication/2026-10-15-high-order-positivity-preserving-well
-excerpt: 'Positivity-preserving schemes for hyperbolic balance laws are typically built from the Zhang-Shu limiter and strong-stability-preserving Runge-Kutta (SSP-RK) time stepping, at the cost of a restrictive time-step condition.'
+excerpt: 'We build an A-WENO scheme for shallow water equations in 1D that is positivity preserving for the water height, through the modified Patankar DeC time integration and Zhang-Shu limiter, and moving equilibria preserving with the flux-globalization technique.'
 date: 2026-10-15
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2610.21857'
