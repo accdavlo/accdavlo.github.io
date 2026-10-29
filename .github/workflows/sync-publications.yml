@@ -6,7 +6,7 @@ name: Sync publications
 #  - New arXiv papers: (re)opens the pull request "New publications" for review.
 on:
   schedule:
-    - cron: '23 5 * * 1'   # every Monday at 05:23 UTC (use '23 5 * * *' for daily)
+    - cron: '23 5 * * *'   # every day at 05:23 UTC
   workflow_dispatch:
     inputs:
       refresh_pdfs:
